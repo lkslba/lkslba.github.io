@@ -42,8 +42,6 @@
       org-html-head-include-default-style nil ;; Use our own styles
       org-html-doctype "html5"
       org-html-html5-fancy t
-      org-html-head "<link rel=\"icon\" href=\"favicon.png\" type=\"image/x-icon\"/>"
-
       org-html-preamble "<nav>
   <a href=\"../index.html\">&lt; Home</a>
 </nav>
@@ -62,7 +60,7 @@
              :with-creator t            ;; Include Emacs and Org versions in footer
              :with-toc nil                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbersi
-             :html-head "<link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\"/>"
+             :html-head "<link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\"/> <link rel=\"icon\" href=\"favicon.png\" type=\"image/x-icon\"/>"
              :time-stamp-file nil)
        (list "blog"
              :recursive nil
@@ -74,7 +72,7 @@
              :with-creator t            ;; Include Emacs and Org versions in footer
              :with-toc nil                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbers
-             :html-head "<link rel=\"stylesheet\" href=\"../style.css\" type=\"text/css\"/>"
+             :html-head "<link rel=\"stylesheet\" href=\"../style.css\" type=\"text/css\"/> <link rel=\"icon\" href=\"../favicon.png\" type=\"image/x-icon\"/>"
              :time-stamp-file nil
              :auto-sitemap t
              :sitemap-title "Blog Posts"
