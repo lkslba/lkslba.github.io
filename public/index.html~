@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>lukas leuba</title>
+<meta name="generator" content="Org Mode" />
+<link rel="stylesheet" href="style.css" type="text/css"/>
+</head>
+<body>
+<div id="preamble" class="status">
+<nav>
+  <a href="../index.html">&lt; Home</a>
+</nav>
+<div id="updated">Updated: 2023-03-06 Mon 13:55</div>
+</div>
+<div id="content" class="content">
+<header>
+<h1 class="title">lukas leuba</h1>
+</header>
+
+
+<div id="outline-container-orgb5ccbc8" class="outline-2">
+<h2 id="orgb5ccbc8">ÜBERSICHT</h2>
+<div class="outline-text-2" id="text-orgb5ccbc8">
+<p>
+Das ist eine Beispielseite erstellt mit Org-Mode!
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org4d72aef" class="outline-2">
+<h2 id="org4d72aef">LINKS</h2>
+<div class="outline-text-2" id="text-org4d72aef">
+<ul class="org-ul">
+<li><a href="https://twitter.com/LKSLBA00">Twitter</a></li>
+<li>linkedin</li>
+<li>mail</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org0e65b2f" class="outline-2">
+<h2 id="org0e65b2f">Blog</h2>
+<div class="outline-text-2" id="text-org0e65b2f">
+<ul class="org-ul">
+<li><a href="blog/sitemap.html">alle Posts</a></li>
+</ul>
+
+
+<div class="org-src-container">
+<pre class="src src-emacs-lisp">(<span style="font-weight: bold;">defun</span> <span style="font-weight: bold;">org-xor</span> (a b)
+   <span style="font-style: italic;">"Exclusive or."</span>
+   (<span style="font-weight: bold;">if</span> a (not b) b))
+</pre>
+</div>
+
+<div class="org-src-container">
+<pre class="src src-python"><span style="font-weight: bold;">for</span>(i <span style="font-weight: bold;">in</span> rang(100)):
+    <span style="font-weight: bold;">print</span>(i)
+</pre>
+</div>
+
+
+<table>
+
+
+<colgroup>
+<col  class="org-left">
+
+<col  class="org-right">
+
+<col  class="org-left">
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">A</td>
+<td class="org-right">B</td>
+<td class="org-left">C</td>
+</tr>
+
+<tr>
+<td class="org-left">E</td>
+<td class="org-right">F</td>
+<td class="org-left">G</td>
+</tr>
+
+<tr>
+<td class="org-left">H</td>
+<td class="org-right">1</td>
+<td class="org-left">334252</td>
+</tr>
+
+<tr>
+<td class="org-left">Lukas</td>
+<td class="org-right">0</td>
+<td class="org-left">26</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">"hallo"</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.2 (<a href="https://orgmode.org">Org</a> mode 9.5.5)</p>
+</div>
+</body>
+</html>

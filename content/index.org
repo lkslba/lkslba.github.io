@@ -1,0 +1,39 @@
+#+title: lukas leuba
+
+
+
+* ÜBERSICHT
+Das ist eine Beispielseite erstellt mit Org-Mode!
+
+
+* LINKS
+- [[https://twitter.com/LKSLBA00][Twitter]]
+- linkedin
+- mail
+
+* Blog
+- [[file:blog/sitemap.org][alle Posts]]
+
+
+#+BEGIN_SRC emacs-lisp
+  (defun org-xor (a b)
+     "Exclusive or."
+     (if a (not b) b))
+#+END_SRC
+
+#+BEGIN_SRC python
+for i in rang(10):
+    print(i)
+#+END_SRC
+
+#+RESULTS:
+
+
+
+
+| A     | B | C       |
+| E     | F | G       |
+| H     | 1 | 334252  |
+| Lukas | 0 | 26      |
+|       |   | "hallo" |
+|       |   |         |
