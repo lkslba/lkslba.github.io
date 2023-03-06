@@ -12,7 +12,7 @@
 <nav>
   <a href="../index.html">&lt; Home</a>
 </nav>
-<div id="updated">Updated: 2023-03-06 Mon 14:06</div>
+<div id="updated">Updated: 2023-03-06 Mon 19:45</div>
 </div>
 <div id="content" class="content">
 <header>
@@ -20,9 +20,9 @@
 </header>
 
 
-<div id="outline-container-org35e7f40" class="outline-2">
-<h2 id="org35e7f40">ÜBERSICHT</h2>
-<div class="outline-text-2" id="text-org35e7f40">
+<div id="outline-container-orgc093b8e" class="outline-2">
+<h2 id="orgc093b8e">übersicht</h2>
+<div class="outline-text-2" id="text-orgc093b8e">
 <p>
 Das ist eine Beispielseite erstellt mit Org-Mode!
 </p>
@@ -30,89 +30,24 @@ Das ist eine Beispielseite erstellt mit Org-Mode!
 </div>
 
 
-<div id="outline-container-orgb7f76e0" class="outline-2">
-<h2 id="orgb7f76e0">LINKS</h2>
-<div class="outline-text-2" id="text-orgb7f76e0">
+<div id="outline-container-orge4d94d3" class="outline-2">
+<h2 id="orge4d94d3">links</h2>
+<div class="outline-text-2" id="text-orge4d94d3">
 <ul class="org-ul">
 <li><a href="https://twitter.com/LKSLBA00">Twitter</a></li>
-<li>linkedin</li>
-<li>mail</li>
+<li><a href="https://www.linkedin.com/in/lukas-leuba/">linkedin</a></li>
+<li><a href="mailto:lukas.leuba@hotmail.ch">mail</a></li>
+<li><a href="Lebenslauf_Lukas.pdf">lebenslauf</a></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orgd4192d2" class="outline-2">
-<h2 id="orgd4192d2">Blog</h2>
-<div class="outline-text-2" id="text-orgd4192d2">
+<div id="outline-container-org43056ba" class="outline-2">
+<h2 id="org43056ba">blog</h2>
+<div class="outline-text-2" id="text-org43056ba">
 <ul class="org-ul">
 <li><a href="blog/sitemap.html">alle Posts</a></li>
 </ul>
-
-
-<div class="org-src-container">
-<pre class="src src-emacs-lisp">(<span style="font-weight: bold;">defun</span> <span style="font-weight: bold;">org-xor</span> (a b)
-   <span style="font-style: italic;">"Exclusive or."</span>
-   (<span style="font-weight: bold;">if</span> a (not b) b))
-</pre>
-</div>
-
-<div class="org-src-container">
-<pre class="src src-python"><span style="font-weight: bold;">for</span> i <span style="font-weight: bold;">in</span> rang(10):
-    <span style="font-weight: bold;">print</span>(i)
-</pre>
-</div>
-
-
-
-
-<table>
-
-
-<colgroup>
-<col  class="org-left">
-
-<col  class="org-right">
-
-<col  class="org-left">
-</colgroup>
-<tbody>
-<tr>
-<td class="org-left">A</td>
-<td class="org-right">B</td>
-<td class="org-left">C</td>
-</tr>
-
-<tr>
-<td class="org-left">E</td>
-<td class="org-right">F</td>
-<td class="org-left">G</td>
-</tr>
-
-<tr>
-<td class="org-left">H</td>
-<td class="org-right">1</td>
-<td class="org-left">334252</td>
-</tr>
-
-<tr>
-<td class="org-left">Lukas</td>
-<td class="org-right">0</td>
-<td class="org-left">26</td>
-</tr>
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">"hallo"</td>
-</tr>
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-right">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-</table>
 </div>
 </div>
 </div>

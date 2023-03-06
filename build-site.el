@@ -42,6 +42,8 @@
       org-html-head-include-default-style nil ;; Use our own styles
       org-html-doctype "html5"
       org-html-html5-fancy t
+      org-html-head "<link rel=\"icon\" href=\"favicon.png\" type=\"image/x-icon\"/>"
+
       org-html-preamble "<nav>
   <a href=\"../index.html\">&lt; Home</a>
 </nav>
