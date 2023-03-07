@@ -1,4 +1,4 @@
-#+TITLE: Blog Posts
+#+TITLE: Blog
 
 - [[file:beitrag_1.org][Beitrag_1]]
 - [[file:posts.org][alle posts]]

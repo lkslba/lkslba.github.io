@@ -76,8 +76,8 @@
 <div id=\"updated\">Updated: %C</div>"
              :time-stamp-file nil
              :auto-sitemap t
-             :sitemap-title "Blog Posts"
-             :sitemap-filename "sitemap.org")
+             :sitemap-title "Blog"
+             :sitemap-filename "blog.org")
        (list "static"
              :recursive t
              :base-directory "./content"

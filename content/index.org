@@ -13,5 +13,4 @@ Das ist eine Beispielseite erstellt mit Org-Mode!
 
 
 * blog
-- [[file:blog/sitemap.org][alle Posts]]
-
+- [[file:blog/blog.org][alle Posts]]
