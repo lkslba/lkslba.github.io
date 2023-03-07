@@ -110,16 +110,16 @@ body > footer {
 
 /* Format headers */
 h1 {
-  font-size: 2rem;
+  font-size: 2.2rem;
 }
 
 h2 {
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   margin-top: 3rem;
 }
 
 h3 {
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   margin-top: 3rem;
 }
 
@@ -147,22 +147,26 @@ h3 {
   line-height: 1.1;
 }
 
-/* Reduce header size on mobile */
+/* mobile adaptations */
 @media only screen and (max-width: 720px) {
   h1 {
-    font-size: 2.5rem;
+    font-size: 2.0rem;
   }
 
   h2 {
-    font-size: 2.1rem;
+    font-size: 1.5rem;
   }
 
   h3 {
-    font-size: 1.75rem;
+    font-size: 1.3rem;
   }
 
   h4 {
-    font-size: 1.25rem;
+    font-size: 1.2rem;
+  }
+
+  img[src = "avatar.jpeg"] {
+    display: none;
   }
 }
 
@@ -623,4 +627,29 @@ progress::-moz-progress-bar {
 
 progress:indeterminate::-moz-progress-bar {
   background-color: var(--accent-bg);
+}
+
+/*image styling */
+
+img{
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5%;
+
+}
+
+img[src = "avatar.jpeg"] {
+  border-radius: 50%;
+  width: 150px;
+  float: right;
+}
+
+/* format preamble */
+
+#updated{
+  float: right;
 }

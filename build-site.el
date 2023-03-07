@@ -41,11 +41,7 @@
       org-html-head-include-scripts nil       ;; Use our own scripts
       org-html-head-include-default-style nil ;; Use our own styles
       org-html-doctype "html5"
-      org-html-html5-fancy t
-      org-html-preamble "<nav>
-  <a href=\"../index.html\">&lt; Home</a>
-</nav>
-<div id=\"updated\">Updated: %C</div>")
+      org-html-html5-fancy t)
 
 ;; Define the publishing project
 (setq org-publish-project-alist
@@ -61,6 +57,7 @@
              :with-toc nil                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbersi
              :html-head "<link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\"/> <link rel=\"icon\" href=\"favicon.png\" type=\"image/x-icon\"/>"
+             :html-preamble "<div id=\"updated\">Updated: %C</div>"
              :time-stamp-file nil)
        (list "blog"
              :recursive nil
@@ -73,6 +70,10 @@
              :with-toc nil                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbers
              :html-head "<link rel=\"stylesheet\" href=\"../style.css\" type=\"text/css\"/> <link rel=\"icon\" href=\"../favicon.png\" type=\"image/x-icon\"/>"
+             :html-preamble  "<nav>
+  <a href=\"../index.html\">&lt; Home</a>
+</nav>
+<div id=\"updated\">Updated: %C</div>"
              :time-stamp-file nil
              :auto-sitemap t
              :sitemap-title "Blog Posts"
