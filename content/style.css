@@ -9,14 +9,14 @@
 
   /* Default (light) theme */
   --bg: #fff;
-  --accent-bg: #f5f7ff;
-  --text: #212121;
+  --accent-bg: #f8f8f2;
+  --text: #282a36;
   --text-light: #585858;
   --border: #898EA4;
-  --accent: #0d47a1;
-  --code: #d81b60;
-  --preformatted: #444;
-  --marked: #ffdd33;
+  --accent: #ff79c6;
+  --code: #ff5555;
+  --preformatted: #585858;
+  --marked: #f1fa8c;
   --disabled: #efefef;
 }
 
