@@ -5,37 +5,37 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Beitrag_1</title>
 <meta name="generator" content="Org Mode" />
-<link rel="stylesheet" href="../style.css" type="text/css"/>
+<link rel="stylesheet" href="../style.css" type="text/css"/> <link rel="icon" href="../favicon.png" type="image/x-icon"/>
 </head>
 <body>
-<div id="preamble" class="status">
-<nav>
-  <a href="../index.html">&lt; Home</a>
-</nav>
-<div id="updated">Updated: 2023-03-06 Mon 10:47</div>
-</div>
 <div id="content" class="content">
 <header>
 <h1 class="title">Beitrag<sub>1</sub></h1>
 </header>
-<div id="outline-container-org68e3a65" class="outline-2">
-<h2 id="org68e3a65">ÜBERSCHRIFT</h2>
-<div class="outline-text-2" id="text-org68e3a65">
+<div id="outline-container-org3868fc2" class="outline-2">
+<h2 id="org3868fc2">ÜBERSCHRIFT</h2>
+<div class="outline-text-2" id="text-org3868fc2">
 </div>
-<div id="outline-container-org4e76be1" class="outline-3">
-<h3 id="org4e76be1">UNTERSCHRIFT</h3>
-<div class="outline-text-3" id="text-org4e76be1">
+<div id="outline-container-org1b7af8f" class="outline-3">
+<h3 id="org1b7af8f">UNTERSCHRIFT</h3>
+<div class="outline-text-3" id="text-org1b7af8f">
 <p>
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 </p>
 </div>
 
-<div id="outline-container-orge211db9" class="outline-4">
-<h4 id="orge211db9">3. Unterschrift</h4>
-<div class="outline-text-4" id="text-orge211db9">
+<div id="outline-container-orgfa889be" class="outline-4">
+<h4 id="orgfa889be">3. Unterschrift</h4>
+<div class="outline-text-4" id="text-orgfa889be">
 <p>
 Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
 </p>
+
+
+<figure id="org5601b8e">
+<img src="../bern.jpeg" alt="bern.jpeg">
+
+</figure>
 
 <p>
 Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
@@ -55,8 +55,8 @@ At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergr
 </div>
 
 <ul class="org-ul">
-<li><a id="org0594f7a"></a>5. Unterschrift<br>
-<div class="outline-text-6" id="text-org0594f7a">
+<li><a id="org9d01c66"></a>5. Unterschrift<br>
+<div class="outline-text-6" id="text-org9d01c66">
 <p>
 Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus.
 </p>
