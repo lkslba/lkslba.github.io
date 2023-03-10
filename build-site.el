@@ -38,10 +38,12 @@
 
 ;; Customize the HTML output
 (setq org-html-validation-link nil            ;; Don't show validation link
+      org-src-fontify-natively t
       org-html-head-include-scripts nil       ;; Use our own scripts
       org-html-head-include-default-style nil ;; Use our own styles
       org-html-doctype "html5"
-      org-html-html5-fancy t)
+      org-html-html5-fancy t
+      org-export-allow-bind-keywords t)
 
 ;; Define the publishing project
 (setq org-publish-project-alist
@@ -77,7 +79,8 @@
              :time-stamp-file nil
              :auto-sitemap t
              :sitemap-title "Blog"
-             :sitemap-filename "blog.org")
+             :sitemap-filename "blog.org"
+             :sitemap-sort-files 'anti-chronologically)
        (list "static"
              :recursive t
              :base-directory "./content"
