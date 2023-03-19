@@ -2,4 +2,3 @@
 
 - [[file:how_to_org_website.org][Setting up this Websige with EMACS ORG-mode]]
 - [[file:beitrag_1.org][Beitrag_1]]
-- [[file:posts.org][alle posts]]

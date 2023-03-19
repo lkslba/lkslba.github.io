@@ -1,5 +1,0 @@
-#+title:  alle posts
-#+date: <2023-03-06 Mon>
-
-- beitrag_1
-- beitrag_2

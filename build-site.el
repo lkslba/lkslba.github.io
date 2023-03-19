@@ -58,7 +58,7 @@
              :with-creator t            ;; Include Emacs and Org versions in footer
              :with-toc nil                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbersi
-             :html-head "<link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\"/> <link rel=\"icon\" href=\"favicon.png\" type=\"image/x-icon\"/>"
+             :html-head "<link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\"/> <link rel=\"icon\" href=\"img_doc/favicon.png\" type=\"image/x-icon\"/>"
              :html-preamble "<div id=\"updated\">Updated: %C</div>"
              :time-stamp-file nil)
        (list "blog"
@@ -71,7 +71,7 @@
              :with-creator t            ;; Include Emacs and Org versions in footer
              :with-toc nil                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbers
-             :html-head "<link rel=\"stylesheet\" href=\"../style.css\" type=\"text/css\"/> <link rel=\"icon\" href=\"../favicon.png\" type=\"image/x-icon\"/>"
+             :html-head "<link rel=\"stylesheet\" href=\"../style.css\" type=\"text/css\"/> <link rel=\"icon\" href=\"../img_doc/favicon.png\" type=\"image/x-icon\"/>"
              :html-preamble  "<nav>
   <a href=\"../index.html\">&lt; Home</a>
 </nav>

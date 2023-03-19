@@ -8,16 +8,16 @@
   --standard-border-radius: 5px;
 
   /* Default (light) theme */
-  --bg: #fff;
-  --accent-bg: #f8f8f2;
-  --text: #282a36;
-  --text-light: #585858;
+  --bg: #282a36;
+  --accent-bg: #44475a;
+  --text: #f8f8f2;
+  --text-light: #ababab;
   --border: #898EA4;
-  --accent: #ff79c6;
-  --code: #ff5555;
-  --preformatted: #585858;
+  --accent: #50fa7b;
+  --code: #ff79c6;
+  --preformatted: #ababab;
+  --disabled: #111;
   --marked: #f1fa8c;
-  --disabled: #efefef;
 }
 
 /* Dark theme */
