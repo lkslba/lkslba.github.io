@@ -1,0 +1,56 @@
+
+rule org2md
+  command = emacs --batch -l ~/.doom.d/init.el -l publish.el --eval "(jethro/publish \"$in\")"
+  description = org2md $in
+
+build content/posts/20230321194023-prozessorherstellung.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230321194023-prozessorherstellung.org
+
+build content/posts/20230321185956-computer_science.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230321185956-computer_science.org
+
+build content/posts/20230324124722-pastrami_toast.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230324124722-pastrami_toast.org
+
+build content/posts/20230319171013-tublers.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230319171013-tublers.org
+
+build content/posts/20230319170451-stolon.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230319170451-stolon.org
+
+build content/posts/20230321190456-titan_ti.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230321190456-titan_ti.org
+
+build content/posts/20230321190105-physics.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230321190105-physics.org
+
+build content/posts/20230321190247-computer_architecture.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230321190247-computer_architecture.org
+
+build content/posts/20230324125659-betriebswirtschaft.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230324125659-betriebswirtschaft.org
+
+build content/posts/20230321125500-methods_of_learning.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230321125500-methods_of_learning.org
+
+build content/posts/20230324125501-philosophie.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230324125501-philosophie.org
+
+build content/posts/20230319170023-vegetative_reproduction.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230319170023-vegetative_reproduction.org
+
+build content/posts/20230324124840-recipes.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230324124840-recipes.org
+
+build content/posts/20230321191038-dotierung.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230321191038-dotierung.org
+
+build content/posts/20230321191141-silizium.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230321191141-silizium.org
+
+build content/posts/20230321190143-chemistry.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230321190143-chemistry.org
+
+build content/posts/20230319165243-biology.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230319165243-biology.org
+
+build content/posts/20230324125328-beforderungsparadoxon.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230324125328-beforderungsparadoxon.org
+
+build content/posts/20230324125620-arbeit.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230324125620-arbeit.org
+
+build content/posts/20230321185841-leiter_halbleiter_und_isolatoren.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230321185841-leiter_halbleiter_und_isolatoren.org
+
+build content/posts/20230321190421-wolfram_w.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230321190421-wolfram_w.org
+
+build content/posts/20230319165820-apomixis.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230319165820-apomixis.org
+
+build content/posts/20230319170824-rhizome.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230319170824-rhizome.org
+
+build content/posts/20230319171146-bulbs.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230319171146-bulbs.org
+
+build content/posts/20230319165159-plant_reproduction.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230319165159-plant_reproduction.org
+
+build content/posts/20230319170229-fragmentation.md: org2md /Users/lkslba/Documents/emacs/org/roam/20230319170229-fragmentation.org

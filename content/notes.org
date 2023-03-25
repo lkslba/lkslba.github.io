@@ -1,0 +1,12 @@
+#+title: Notes
+#+HTML_HEAD: <script src="https://d3js.org/d3.v7.min.js"></script>
+#+HTML_HEAD: <script src="sort.js"></script>
+#+HTML_HEAD: <script src="graph.js"></script>
+#+HTML_HEAD: <link rel="stylesheet" href="style.css" type="text/css"/> <link rel="icon" href="img_doc/favicon.png" type="image/x-icon"/>
+
+
+You are looking at a graph of my notes.
+
+#+BEGIN_EXPORT html
+ <svg id="note-graph"></svg>
+#+END_EXPORT

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- 2023-03-25 Sat 15:43 -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Silizium</title>
+<meta name="generator" content="Org Mode" />
+<link rel="stylesheet" href="../style.css" type="text/css"/> <link rel="icon" href="../img_doc/favicon.png" type="image/x-icon"/>
+</head>
+<body>
+<div id="preamble" class="status">
+<nav>
+  <a href="../index.html">&lt; Home</a>
+</nav>
+<div id="updated">Updated: 2023-03-21 Tue 20:07</div>
+</div>
+<div id="content" class="content">
+<header>
+<h1 class="title">Silizium</h1>
+</header><div id="outline-container-org5c33f49" class="outline-2">
+<h2 id="org5c33f49">Links</h2>
+<div class="outline-text-2" id="text-org5c33f49">
+<ul class="org-ul">
+<li></li>
+<li></li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org0085fdf" class="outline-2">
+<h2 id="org0085fdf">Reines Silizium</h2>
+<div class="outline-text-2" id="text-org0085fdf">
+<ul class="org-ul">
+<li>Ist Halbleiter.</li>
+<li>4 Valenzelektronen</li>
+<li>Am absoluten Nullpunkt sind alle Elektronen gebunden</li>
+<li>3D Struktur (109,5 Deg)</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgc408833" class="outline-2">
+<h2 id="orgc408833">Dotiertes Silizium</h2>
+<div class="outline-text-2" id="text-orgc408833">
+<ul class="org-ul">
+<li>Bei einer n-(n für negativ) wird ein Element mit 5 Valenzelektronen dem reinen Silizium hinzugefügt
+Das Resultat ist eine negative Ladung durch ein freies Elektron. Ein Beispiel ist Phosphor (P).</li>
+<li>Bei einer p-Dotierung wird ein Element mit 3 Valenzelektronen hinzugefügt &#x2013;&gt; Positive Ladung, Beispiel Bor (B)</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Created: 2023-03-25 Sat 15:43</p>
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.2 (<a href="https://orgmode.org">Org</a> mode 9.5.5)</p>
+</div>
+</body>
+</html>
