@@ -50,6 +50,7 @@ d3.json(graph_name).then(function(data) {
         '#ff5555',
         '#8be9fd',
         "#ff79c6",
+        "#6272a4",
     ];
     // Color function just maps cluster to color palette
     nodeColor = d => {
