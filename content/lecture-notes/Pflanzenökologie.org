@@ -1,0 +1,135 @@
+#+title: Pflanzenökologie
+#+org-download-image-dir: /Users/lkslba/Documents/emacs/org/uni/images
+
+* Einführung :drill:
+SCHEDULED: <2023-04-23 Sun>
+:PROPERTIES:
+:ID:       b99a07b1-6d15-48ae-86e7-896f5a50a168
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-04-19 Wed 11:%]
+:END:
+#
+** Definition Pflanze
+:PROPERTIES:
+:ID:       a2a1394d-1255-4053-adbd-5cd1fce99eda
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-04-19 Wed 11:%]
+:END:
+Pflanzen sind Organsismen, die neben echten Zellkernen auch Plastiden (meist Chloroplasten) als Organellen enthalten. Pflanzen sind (allermeistens) photoautotroph.
+** Definition Pilze
+:PROPERTIES:
+:ID:       15c69f61-8ec2-4f2f-aeff-0061ab25de54
+:DRILL_LAST_INTERVAL: 3.86
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-04-19 Wed 11:%]
+:END:
+Pilze sind heterotroph wie Tiere und ernähren sich von totem organischem Gewebe, parasitär oder mutualistisch. Pilze sind jedoch sessil und weisen Zellwände (aus Chitin oft) und Vakuolen auf, haben jedoch eben keine Plastiden.
+** Definition Ökologie
+Wissenschaftliche Untersuchung der Beziehungen zwischen Lebewesen und ihrer Umwelt.
+
+- Interaktionen zwischen Individuen mit der abiotischen Umwelt
+- Interaktionen zwischen Individuen der gleichen Art oder verschiedenen Arten
+- Häufigkeit und Verbreitung von Populationen, Arten, Lebensgemeinschaften
+- Stoff- und Energiehaushalt von Biosphäre, Ökosystemen, Populationen und Individuen.
+
+*** Hierarchie biologischer Systeme:
+**** Biosphäre
+***** Biome
+****** Ökosysteme
+******* Lebensgemeinschaft
+******** Population
+********* Organismus
+
+** Geschichte des Lebens
+- ca. 4.8 mya Entstehung der Erde
+- ca. 3.8 mya Entstehung von Prokaryoten
+- ca. 2.8 mya Atmosphärischer Sauerstoff (Grosse Sauerstoffkatastrophe)
+- ca. 2.1 mya einzellige Eukaryoten
+- ca. 1.5 mya mehrzellige Eukaryten
+- ca. 0.7 mya Tiere
+- ca. 0.5 mya Kolonialisierung des Lande
+
+** Die Reiche der Biologie
+Carl Woese definierte drei Domänen und sechs Reiche der Lebewesen. Eine einprägsame aber falsche Klassifikation. In realität sind vor Allem die basalen Gruppen viel sehr fragmentiert und nicht einfach zuzuordnen. Die Systematik Vorlesung befasst sich genauer mit diesem Thema.
+
+*** Leben nach Woese:
+**** Prokaryoten
+***** Bacteria
+***** Archaea
+**** Eukaryoten
+***** Protisten
+***** Plantae
+***** Fungi
+***** Animalia
+
+** Endosymbiontentheorie
+Erklärung für das Aufkommen von Eukaryoten.
+
+- Prokarytische Zelle, die ein Bakterium als Mitochondrium verschluckt gilt als Vorläufer der heterotrophen, tierischen Zellen
+- Prokarytische Zelle, die ein Cyanobakterium als Chloroplast verschluckt, gilt als Vorläufer von autotrophen, pflanzlichen Zellen
+
+Einige unterstützende Argumente zur Endosymbiontentheorie:
+- Mitochondrien und Chloroplasten besitzen DNA, die ähnlich ist zu jener der Bakterien
+- Sie sind ähnlich gross und reproduzieren sich durch binäre Zweiteilung wie Prokaryoten
+- Das Membran-Lipid Cardiolipin kommt ausschliesslich in der inneren Mitochondrienmembran und in Bakterienmembranen vor.
+- Einige Transportproteine (Porine) kommen in Bakterien, Mitochondrien und Chloroplasten vor.
+- Genomvergleiche zeigen auf grosse Ähnlichkeit zwischen Mitochondrien und Bakterien, bzw. zwischen Chloroplasten und Cyanobakterien.
+- Interne Struktur der Plastiden (Thylakoide und Chlorophyll) ist sehr ähnlich zu jener von Cyanobakterien.
+- Ribosomen in Mitochondrien und Chloroplasten sind ähnlicher zu jenen in Bakterien als jene in Eukaryoten.
+- Chloroplasten finden sich in verschiedenen Protisten, die nah verwandt sind mit Plastiden-freien Arten ->  Wenn Plastiden mehrmals unabhängig entstanden sind, ist ihre grosse Ähnlichkeit schwierig zu erklären.
+
+
+
+* Wichtige Schritte der Evolution
+** Kernphasenwechsel
+** Generationswehchsel
+** Reproduktion
+*** sexuell
+*** vegetativ
+** Evolution der Geschlechter
+*** Isogamie
+*** Anisogamie
+*** Oogamie
+*** Diözie
+*** Monözie
+*** Hermaphroditismus
+** Mehrzelligkeit und Zelldifferenzierung
+** Vielfalt der Lebenszyklen
+* Evolution und Systematik
+** Eigenschaften des Lebens
+** Evolution und Artbildung
+** Systematik
+*** Definition Systematik
+*** Taxonomie
+*** Phylogenetik
+**** phylogenetische Stammbäume
+***** Para
+***** Poly
+***** Mono
+**** phylogenetisches jargon
+***** Apomorphie
+***** Plesiomorphie
+***** Synapomorphie
+***** Homoplasie
+* Evolution und Ökologie
+**
+* Moose und Farne
+** Definition Kräuter / krautige Pflanen
+Gefässpflanzen ohnne Lignin / unverholzt.
