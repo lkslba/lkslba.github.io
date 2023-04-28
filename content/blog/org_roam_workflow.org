@@ -1,0 +1,13 @@
+#+title: having fun with notes
+#+date: <2023-04-16 Sun>
+
+As every man of culture I like to procastinate with optimizing some system of mine instead of actually get work done. As I recently dove into the emacs-org-mode-rabbit-hole I of course stumbled onto org-roam and was immediatly captured. Although I was never a big note-taker I see the potential of having a database of resources and thoughts to fall back onto. I read a lot, watch youtube-videos and listen to podcasts but I can't help but forget most of it. Ralph Waldo Emerson always conforted me with his famous quote, but it still bothers me that I keep forgetting a lot of really useful information, and maybe even worse, I often forget where to refind the information. Org Roam may be an appealing solution, only time will tell. For now I want to share my configuration and workflow using mostly [[https://github.com/doomemacs/doomemacs][Doom Emacs]]  and [[https://www.zotero.org/][Zotero]].
+
+#+begin_quote
+“I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me.”
+
+― Ralph Waldo Emerson
+#+end_quote
+
+* What is it?
+[[https://www.orgroam.com/][Org Roam]] is an open-source (!) note-taking-software for [[https://orgmode.org][Emacs Org-Mode]]. It was created by Jethro Kuan as a light weight package which is able to implement the Zettelkasten-method.

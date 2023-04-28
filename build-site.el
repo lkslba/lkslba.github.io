@@ -35,6 +35,8 @@
 
 ;; Load the publishing system
 (require 'ox-publish)
+(require 'htmlize)
+
 
 ;; Customize the HTML output
 (setq org-html-validation-link nil            ;; Don't show validation link
@@ -43,7 +45,9 @@
       org-html-head-include-default-style nil ;; Use our own styles
       org-html-doctype "html5"
       org-html-html5-fancy t
-      org-export-allow-bind-keywords t)
+      org-export-allow-bind-keywords t
+      make-backup-files nil)
+
 
 ;; Define the publishing project
 (setq org-publish-project-alist
@@ -81,28 +85,13 @@
              :sitemap-title "Blog"
              :sitemap-filename "blog.org"
              :sitemap-sort-files 'anti-chronologically)
-       (list "notes"
-             :recursive nil
-             :base-directory "/Users/lkslba/Documents/emacs/org/roam"
-             :base-extension "org"
-             :publishing-function 'org-html-publish-to-html
-             :publishing-directory "/Users/lkslba/Documents/emacs/org/pers_ws/public/notes"
-             :with-author nil           ;; Don't include author name
-             :with-creator t            ;; Include Emacs and Org versions in footer
-             :with-toc nil                ;; Include a table of contents
-             :section-numbers nil       ;; Don't include section numbers
-             :with-broken-links t
-             :html-head "<link rel=\"stylesheet\" href=\"../style.css\" type=\"text/css\"/> <link rel=\"icon\" href=\"../img_doc/favicon.png\" type=\"image/x-icon\"/>"
-             :html-preamble  "<nav>
-  <a href=\"../index.html\">&lt; Home</a>
-</nav>
-<div id=\"updated\">Updated: %C</div>")
        (list "static"
              :recursive t
              :base-directory "./content"
              :base-extension "css\\|txt\\|pdf\\|jpg\\|jpeg\\|gif\\|png"
              :publishing-function 'org-publish-attachment
-             :publishing-directory "./public")))    ;; Don't include time stamp in file
+             :publishing-directory "./public")))
+
 ;; Generate the site output
 (org-publish-all t)
 

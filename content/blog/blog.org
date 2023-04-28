@@ -1,4 +1,4 @@
 #+TITLE: Blog
 
-- [[file:how_to_org_website.org][Setting up this Websige with EMACS ORG-mode]]
-- [[file:beitrag_1.org][Beitrag_1]]
+- [[file:org_roam_workflow.org][having fun with notes]]
+- [[file:how_to_org_website.org][Setting up this Website with Emacs Org-mode]]
