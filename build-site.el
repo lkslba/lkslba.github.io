@@ -85,6 +85,26 @@
              :sitemap-title "Blog"
              :sitemap-filename "blog.org"
              :sitemap-sort-files 'anti-chronologically)
+       (list "lecure-notes"
+             :recursive nil
+             :base-directory "./content/lecture-notes"
+             :base-extension "org"
+             :publishing-function 'org-html-publish-to-html
+             :publishing-directory "./public/lecture-notes"
+             :with-author nil           ;; Don't include author name
+             :with-creator t            ;; Include Emacs and Org versions in footer
+             :with-toc t                ;; Include a table of contents
+             :section-numbers nil       ;; Don't include section numbers
+             :html-head "<link rel=\"stylesheet\" href=\"style_notes.css\" type=\"text/css\"/> <link rel=\"icon\" href=\"../img_doc/favicon.png\" type=\"image/x-icon\"/>"
+             :html-preamble  "<nav>
+  <a href=\"../index.html\">&lt; Home</a>
+</nav>
+<div id=\"updated\">Updated: %C</div>"
+             :time-stamp-file nil
+             :auto-sitemap t
+             :sitemap-title "lecture-notes"
+             :sitemap-filename "lecture-notes.org"
+             :sitemap-sort-files 'anti-chronologically)
        (list "static"
              :recursive t
              :base-directory "./content"
