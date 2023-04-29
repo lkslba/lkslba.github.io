@@ -95,7 +95,13 @@
              :with-creator t            ;; Include Emacs and Org versions in footer
              :with-toc t                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbers
-             :html-head "<link rel=\"stylesheet\" href=\"style_notes.css\" type=\"text/css\"/> <link rel=\"icon\" href=\"../img_doc/favicon.png\" type=\"image/x-icon\"/>"
+             :html-head  "<link rel=\"icon\" href=\"../img_doc/favicon.png\" type=\"image/x-icon\"/>
+<link rel=\"stylesheet\" type=\"text/css\" href=\"src/readtheorg_theme/css/htmlize.css\"/>
+<link rel=\"stylesheet\" type=\"text/css\" href=\"src/readtheorg_theme/css/readtheorg.css\"/>
+<script type=\"text/javascript\" src=\"src/lib/js/jquery.min.js\"></script>
+<script type=\"text/javascript\" src=\"src/lib/js/bootstrap.min.js\"></script>
+<script type=\"text/javascript\" src=\"src/lib/js/jquery.stickytableheaders.min.js\"></script>
+<script type=\"text/javascript\" src=\"src/readtheorg_theme/js/readtheorg.js\"></script>"
              :html-preamble  "<nav>
   <a href=\"../index.html\">&lt; Home</a>
 </nav>

@@ -1,0 +1,2523 @@
+<!DOCTYPE html>
+<html lang="de" >
+    <head>
+                        <meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" id="Viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Feldbotanik App | Haupt - Online Buchshop</title><meta name="description" content="Feldbotanik App - Die Feldbotanik-App und das dazugehörige Buch «Grundlagen der Feldbotanik» wollen sinnvolle Hilfsmittel für all jene sein, die ihre botanischen Kenntnisse aufbauen und Artenkenntniss"><meta name="keywords" content="feldbotanik, app, apps, amp;, e-books, haupt, verlag, ios, android, bestimmungsführer, artentrainer"><meta property="og:site_name" content="https://www.haupt.ch/"><meta property="og:title" content="Feldbotanik App | Haupt - Online Buchshop"><meta property="og:description" content="Feldbotanik App - Die Feldbotanik-App und das dazugehörige Buch «Grundlagen der Feldbotanik» wollen sinnvolle Hilfsmittel für all jene sein, die ihre botanischen Kenntnisse aufbauen und Artenkenntniss"><meta property="og:type" content="product"><meta property="og:image" content="https://www.haupt.ch/out/pictures/generated/product/1/540_450_75/app-feldbotanik.jpg"><meta property="og:url" content="https://www.haupt.ch/apps-e-books/apps/feldbotanik-app.html"><link rel="canonical" href="https://www.haupt.ch/apps-e-books/apps/feldbotanik-app.html"><!-- iOS Homescreen Icon (version < 4.2)--><link rel="apple-touch-icon-precomposed" media="screen and (resolution: 163dpi)" href="https://www.haupt.ch/out/flow_child/img/favicons/favicon_512x512.png" /><!-- iOS Homescreen Icon --><link rel="apple-touch-icon-precomposed" href="https://www.haupt.ch/out/flow_child/img/favicons/favicon_512x512.png" /><!-- iPad Homescreen Icon (version < 4.2) --><link rel="apple-touch-icon-precomposed" media="screen and (resolution: 132dpi)" href="https://www.haupt.ch/out/flow_child/img/favicons/favicon_512x512.png" /><!-- iPad Homescreen Icon --><link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.haupt.ch/out/flow_child/img/favicons/favicon_512x512.png" /><!-- iPhone 4 Homescreen Icon (version < 4.2) --><link rel="apple-touch-icon-precomposed" media="screen and (resolution: 326dpi)" href="https://www.haupt.ch/out/flow_child/img/favicons/favicon_512x512.png" /><!-- iPhone 4 Homescreen Icon --><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.haupt.ch/out/flow_child/img/favicons/favicon_512x512.png" /><!-- new iPad Homescreen Icon and iOS Version > 4.2 --><link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.haupt.ch/out/flow_child/img/favicons/favicon_512x512.png" /><!-- Windows 8 --><meta name="msapplication-TileColor" content="#ffffff"> <!-- Kachel-Farbe --><meta name="msapplication-TileImage" content="https://www.haupt.ch/out/flow_child/img/favicons/favicon_512x512.png"><!-- Fluid --><link rel="fluid-icon" href="https://www.haupt.ch/out/flow_child/img/favicons/favicon_512x512.png" title="Feldbotanik App | Haupt - Online Buchshop" /><!-- Shortcut Icons --><link rel="shortcut icon" href="https://www.haupt.ch/out/flow_child/img/favicons/favicon.ico?rand=1" type="image/x-icon" /><link rel="icon" href="https://www.haupt.ch/out/flow_child/img/favicons/favicon_16x16.png" sizes="16x16" /><link rel="icon" href="https://www.haupt.ch/out/flow_child/img/favicons/favicon_32x32.png" sizes="32x32" /><link rel="icon" href="https://www.haupt.ch/out/flow_child/img/favicons/favicon_48x48.png" sizes="48x48" /><link rel="icon" href="https://www.haupt.ch/out/flow_child/img/favicons/favicon_64x64.png" sizes="64x64" /><link rel="icon" href="https://www.haupt.ch/out/flow_child/img/favicons/favicon_128x128.png" sizes="128x128" />    
+    
+            <script type="text/javascript">var gaProperty = 'UA-49673661-1';var disableStr = 'ga-disable-' + gaProperty;if (document.cookie.indexOf(disableStr + '=true') > -1) {window[disableStr] = true;}function gaOptout() {document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';window[disableStr] = true;}</script><script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-49673661-1', 'www.haupt.ch' , {'siteSpeedSampleRate': 10,'sampleRate': 100});ga('set', 'anonymizeIp', true);setTimeout('ga(\'send\', \'event\', \'NoBounce\', \'Over defined seconds\')',10000);ga('send', 'pageview' );</script>
+    
+
+
+                <link rel="stylesheet" type="text/css" href="https://www.haupt.ch/out/flow_child/src/css/styles.min.css?1622036678" />
+<link rel="stylesheet" type="text/css" href="https://www.haupt.ch/modules/haupt/hlayout/out/src/css/haupt.css" />
+<link rel="stylesheet" type="text/css" href="https://www.haupt.ch/modules/d3/d3_googleanalytics/out/src/d3_googleanalytics.css" />
+
+
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+  <!-- OXID eShop Professional Edition, Version 6, Shopping Cart System (c) OXID eSales AG 2003 - 2023 - https://www.oxid-esales.com -->
+    <body class="cl-details" style="background:#FFFFFF;">
+
+        
+
+    <div class="fullwidth-container">
+            <div class="main-row">
+                                                    
+<div xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:gr="http://purl.org/goodrelations/v1#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:v="http://rdf.data-vocabulary.org/#"
+    xml:base="https://www.haupt.ch/apps-e-books/apps/feldbotanik-app.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m"
+    typeof="gr:Offering" about="https://www.haupt.ch/apps-e-books/apps/feldbotanik-app.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#offeringdata">
+    <div rel="foaf:page" resource="https://www.haupt.ch/apps-e-books/apps/feldbotanik-app.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m"></div>
+    <div rev="gr:offers" resource="https://www.haupt.ch/agb/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#companydata"></div>
+    <div property="gr:name" content="Feldbotanik App"  xml:lang="de"></div>
+    <div property="gr:description" content=" Die Feldbotanik-App und das dazugehörige Buch «Grundlagen der Feldbotanik» wollen sinnvolle Hilfsmittel für all jene sein, die ihre botanischen Kenntnisse aufbauen und Artenkenntnisse trainieren wollen. Während das Buch Zusammenhänge und Verwandtschaften erklärt und die bedeutendsten Pflanzenfamilien und Gattungen beschreibt, fokussiert die App gezielt auf das Trainieren der Artenkenntnisse. Die inhaltliche Auswahl der Arten in der App richtet sich nach dem Prüfungsstoff für die Zertifizierung von Botanikkenntnissen der Schweizerischen Botanischen Gesellschaft und nach den Botanikmodulen der NABU|naturgucker Akademie. Wichtig: die App wird aktuell überarbeitet und an die neusten Zertifizierungslisten 2022 angepasst. Das Update sollte Ende Jahr verfügbar sein. Funktionen in der App Artenliste: es werden über 700 Pflanzen porträtiert. Die Liste kann gefiltert werden nach den verschiedenen Zertifikatsstufen (CH-200, CH-400, CH-600, DE-200, DE-400). Porträts enthalten Angaben zur Morphologie, Zertifikatsstufe, Synonymen, Familien- und Gattungszugehörigkeit. Jede Art wird durch mindestens vier Bilder visualisiert. Arten-Trainer: Das Herzstück der App ermöglicht das Verbessern der eigenen Artenkenntnisse. Die Abfolge der Fragen basiert auf einem Algorithmus, der darauf abgestimmt ist, die Artenkenntnis effizient zu verbessern und das Gelernte nachhaltig im Gedächtnis zu verankern. Zwei Fragemodule: Antwort-Eingabe oder Multiple-Choice-Auswahl. Bei letzteren werden die Antwortoptionen dynamisch so zusammengestellt, dass (gattungs-)ähnliche Arten oder Verwechslungskandidaten in den Antwortmöglichkeiten enthalten sind, um so die Lernenden möglichst gut vorzubereiten. In den Artentrainer-Einstellungen kann der Trainingsumfang festgelegt werden (Zertifikatsstufe oder Familienebene). Bestimmen: Ein dynamischer Multikriterienschlüssel verkleinert die Artenliste durch Auswahl und Kombination von Merkmalen. Je genauer die Art mit Merkmalen beschrieben werden kann, desto genauer ist die Bestimmung. Zur Bestimmung stehen über 70 Merkmale zur Grösse, Blütenform, -Farbe, Blattform, Anordnung der Blätter u.v.m. zur Verfügung. Feldbuch: In einem Feldbuch haben Benutzer die Möglichkeit, persönliche Beobachtungen zu einer Art anzulegen, um die Arten zu dokumentieren. Wer es wünscht, kann seine Funde ausserdem an naturgucker.de übertragen. Die App funktioniert offline. Für das Übertragen der Fundmeldungen per E-Mail oder an naturgucker.de sowie für die Anzeige der Rankingtabelle wird eine Internetverbindung benötigt. Systemvoraussetzungen iOS-Version: App für iPhone, iPod touch und iPad Erfordert iOS 10.0 bzw. iPadOS 10.0 oder neuer. Es muss genügend interner Speicher verfügbar sein. Die App ist ca. 880 MB gross. Systemvoraussetzungen Android-Version: App für Android-Smartphones und Tablets Erfordert Android 5.0 oder höher. Es muss genügend interner Speicher verfügbar sein. Die App ist ca. 700 MB gross. Detaillierte Funktionsbeschreibung und Rangliste Arten-Trainer "  xml:lang="de"></div>
+    <div property="gr:hasStockKeepingUnit" content="APP Feldbotanik" datatype="xsd:string"></div>
+    <div rel="gr:includes">
+            <div typeof="gr:SomeItems" about="https://www.haupt.ch/apps-e-books/apps/feldbotanik-app.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#productdata">
+                                  <div property="gr:name" content="Feldbotanik App"  xml:lang="de"></div>
+                                                                               <div property="gr:description" content=" Die Feldbotanik-App und das dazugehörige Buch «Grundlagen der Feldbotanik» wollen sinnvolle Hilfsmittel für all jene sein, die ihre botanischen Kenntnisse aufbauen und Artenkenntnisse trainieren wollen. Während das Buch Zusammenhänge und Verwandtschaften erklärt und die bedeutendsten Pflanzenfamilien und Gattungen beschreibt, fokussiert die App gezielt auf das Trainieren der Artenkenntnisse. Die inhaltliche Auswahl der Arten in der App richtet sich nach dem Prüfungsstoff für die Zertifizierung von Botanikkenntnissen der Schweizerischen Botanischen Gesellschaft und nach den Botanikmodulen der NABU|naturgucker Akademie. Wichtig: die App wird aktuell überarbeitet und an die neusten Zertifizierungslisten 2022 angepasst. Das Update sollte Ende Jahr verfügbar sein. Funktionen in der App Artenliste: es werden über 700 Pflanzen porträtiert. Die Liste kann gefiltert werden nach den verschiedenen Zertifikatsstufen (CH-200, CH-400, CH-600, DE-200, DE-400). Porträts enthalten Angaben zur Morphologie, Zertifikatsstufe, Synonymen, Familien- und Gattungszugehörigkeit. Jede Art wird durch mindestens vier Bilder visualisiert. Arten-Trainer: Das Herzstück der App ermöglicht das Verbessern der eigenen Artenkenntnisse. Die Abfolge der Fragen basiert auf einem Algorithmus, der darauf abgestimmt ist, die Artenkenntnis effizient zu verbessern und das Gelernte nachhaltig im Gedächtnis zu verankern. Zwei Fragemodule: Antwort-Eingabe oder Multiple-Choice-Auswahl. Bei letzteren werden die Antwortoptionen dynamisch so zusammengestellt, dass (gattungs-)ähnliche Arten oder Verwechslungskandidaten in den Antwortmöglichkeiten enthalten sind, um so die Lernenden möglichst gut vorzubereiten. In den Artentrainer-Einstellungen kann der Trainingsumfang festgelegt werden (Zertifikatsstufe oder Familienebene). Bestimmen: Ein dynamischer Multikriterienschlüssel verkleinert die Artenliste durch Auswahl und Kombination von Merkmalen. Je genauer die Art mit Merkmalen beschrieben werden kann, desto genauer ist die Bestimmung. Zur Bestimmung stehen über 70 Merkmale zur Grösse, Blütenform, -Farbe, Blattform, Anordnung der Blätter u.v.m. zur Verfügung. Feldbuch: In einem Feldbuch haben Benutzer die Möglichkeit, persönliche Beobachtungen zu einer Art anzulegen, um die Arten zu dokumentieren. Wer es wünscht, kann seine Funde ausserdem an naturgucker.de übertragen. Die App funktioniert offline. Für das Übertragen der Fundmeldungen per E-Mail oder an naturgucker.de sowie für die Anzeige der Rankingtabelle wird eine Internetverbindung benötigt. Systemvoraussetzungen iOS-Version: App für iPhone, iPod touch und iPad Erfordert iOS 10.0 bzw. iPadOS 10.0 oder neuer. Es muss genügend interner Speicher verfügbar sein. Die App ist ca. 880 MB gross. Systemvoraussetzungen Android-Version: App für Android-Smartphones und Tablets Erfordert Android 5.0 oder höher. Es muss genügend interner Speicher verfügbar sein. Die App ist ca. 700 MB gross. Detaillierte Funktionsbeschreibung und Rangliste Arten-Trainer "  xml:lang="de"></div>
+                                       <div rel="foaf:depiction v:image" resource="https://www.haupt.ch/out/pictures/generated/product/1/540_450_75/app-feldbotanik.jpg"></div>
+            <div property="gr:hasStockKeepingUnit" content="APP Feldbotanik" datatype="xsd:string"></div>
+                                                    <div property="gr:condition" content="new" xml:lang="en"></div>
+                                                                                        <div property="gr:category" content="Apps"  xml:lang="de"></div>
+                                                                                        </div>
+        </div>
+            <div rel="gr:hasPriceSpecification">
+        <div typeof="gr:UnitPriceSpecification">
+                                            <div property="gr:validFrom" content="2023-04-28T18:03:27Z" datatype="xsd:dateTime"></div>
+                <div property="gr:validThrough" content="2023-05-05T18:03:27Z" datatype="xsd:dateTime"></div>
+                                        <div property="gr:valueAddedTaxIncluded" content="false" datatype="xsd:boolean"></div>
+                        <div property="gr:hasUnitOfMeasurement" content="C62" datatype="xsd:string"></div>
+            <div property="gr:hasCurrency" content="CHF" datatype="xsd:string"></div>
+
+                        <div property="gr:hasCurrencyValue" content="25" datatype="xsd:float"></div>
+                    </div>
+    </div>
+        <div property="gr:validFrom" content="2023-04-28T18:03:27Z" datatype="xsd:dateTime"></div>
+    <div property="gr:validThrough" content="2023-04-28T18:03:27Z" datatype="xsd:dateTime"></div>
+    <div rel="gr:hasBusinessFunction" resource="http://purl.org/goodrelations/v1#Sell"></div>
+            <div rel="gr:eligibleCustomerTypes" resource="http://purl.org/goodrelations/v1#Enduser"></div>
+        <div property="gr:eligibleRegions" content="CH" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="LI" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="DE" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="AT" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="AF" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="EG" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="AX" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="AL" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="DZ" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="AS" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="VI" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="AD" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="AO" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="AI" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="AQ" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="AG" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="GQ" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="AR" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="AM" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="AW" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="AZ" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="ET" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="AU" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BS" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BH" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BD" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BB" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BE" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BZ" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BJ" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BM" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BT" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BO" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BA" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BW" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BV" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BR" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="VG" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="IO" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BN" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BG" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BF" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BI" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="CL" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="CN" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="CK" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="CR" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="CI" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="DK" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="DM" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="DO" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="DJ" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="EC" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="SV" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="ER" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="EE" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="FK" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="FO" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="FJ" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="FI" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="FR" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="GF" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="PF" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="TF" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="GA" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="GM" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="GE" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="GH" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="GI" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="GD" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="GR" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="GL" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="GB" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="GP" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="GU" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="GT" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="GG" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="GN" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="GW" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="GY" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="HT" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="HM" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="HN" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="HK" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="IN" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="ID" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="IQ" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="IR" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="IE" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="IS" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="IM" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="IL" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="IT" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="JM" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="JP" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="YE" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="JE" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="JO" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="KY" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="KH" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="CM" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="CA" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="CV" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="KZ" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="QA" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="KE" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="KG" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="KI" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="CC" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="CO" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="KM" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="CG" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="CD" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="XK" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="HR" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="CU" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="KW" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="LA" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="LS" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="LV" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="LB" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="LR" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="LY" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="LT" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="LU" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MO" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MG" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MW" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MY" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MV" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="ML" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MT" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MA" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MH" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MQ" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MR" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MU" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="YT" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MK" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MX" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="FM" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MD" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MC" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MN" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="ME" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MS" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MZ" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MM" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="NA" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="NR" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="NP" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="NC" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="NZ" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="NI" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="NL" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="AN" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="NE" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="NG" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="NU" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="KP" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MP" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="NF" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="NO" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="OM" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="PK" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="PS" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="PW" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="PA" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="PG" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="PY" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="PE" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="PH" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="PN" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="PL" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="PT" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="PR" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="RE" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="RW" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="RO" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="RU" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="SH" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="PM" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BL" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="MF" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="SB" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="ZM" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="WS" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="SM" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="ST" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="SA" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="SE" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="SN" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="RS" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="SC" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="SL" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="ZW" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="SG" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="SK" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="SI" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="SO" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="ES" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="LK" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="KN" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="LC" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="VC" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="ZA" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="SD" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="GS" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="KR" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="SR" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="SJ" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="SZ" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="SY" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="TJ" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="TW" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="TZ" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="TH" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="TL" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="TG" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="TK" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="TO" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="TT" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="TD" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="CZ" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="TN" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="TR" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="TM" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="TC" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="TV" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="UG" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="UA" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="HU" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="UM" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="UY" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="US" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="UZ" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="VU" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="VA" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="VE" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="AE" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="VN" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="WF" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="CX" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="BY" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="EH" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="CF" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="CY" datatype="xsd:string"></div>
+    <div property="gr:eligibleRegions" content="" datatype="xsd:string"></div>
+                            <div rel="gr:acceptedPaymentMethods" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#BezahlungbeiAbholunginderBuchhandlung_917e19622603a58bcd08d0c0081e6240">
+        </div>
+                                        <div rel="gr:acceptedPaymentMethods" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#Rechnung_oxidinvoice">
+        </div>
+                        <div rel="gr:acceptedPaymentMethods" resource="http://purl.org/goodrelations/v1#VISA"></div>
+                <div rel="gr:acceptedPaymentMethods" resource="http://purl.org/goodrelations/v1#MasterCard"></div>
+                                <div rel="gr:acceptedPaymentMethods" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#TWINT_saferpaycw_twint">
+        </div>
+                                <div rel="gr:availableDeliveryMethods" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#ECONOMY_0fa7d99f6b5c0fe50724994b44d98d6c"></div>
+                                <div rel="gr:availableDeliveryMethods" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#PRIORITY_7797d552c28482640771af8c7ece2a79"></div>
+                                <div rel="gr:availableDeliveryMethods" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#Download_869da6edd1f108ed17cf88171ceec278"></div>
+                                <div rel="gr:availableDeliveryMethods" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#ABHOLUNGinderHauptBuchhandlung,Falkenplatz14,Bern_ed126fc02c06079c617004a923b48493"></div>
+                                <div rel="gr:availableDeliveryMethods" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#Standard_oxidstandard"></div>
+                <div rel="gr:hasPriceSpecification" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#0a7574f603d727ee58fbe7993e7939b0"></div>
+    <div rel="gr:hasPriceSpecification" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#2243bae18bce8c36560e87c432cfc248"></div>
+    <div rel="gr:hasPriceSpecification" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#3d4bde965d88c119efefb83747b3a8dc"></div>
+    <div rel="gr:hasPriceSpecification" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#4f2ceff9a25d413ab773d152905b4077"></div>
+    <div rel="gr:hasPriceSpecification" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#5ee2c8d3307db0968314e9d3c9b5aa5b"></div>
+    <div rel="gr:hasPriceSpecification" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#a22646085a3b81661356b38b732f38b0"></div>
+    <div rel="gr:hasPriceSpecification" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#a71349443e645dfcedb169c07805c5bd"></div>
+    <div rel="gr:hasPriceSpecification" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#ace7a3d733590e55a654bf5293cb4a05"></div>
+    <div rel="gr:hasPriceSpecification" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#af9f7c9e06bacddca682dcc093c511a5"></div>
+    <div rel="gr:hasPriceSpecification" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#afbf11209e1c36983594ad835d464771"></div>
+    <div rel="gr:hasPriceSpecification" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#b653fd0d4da73af78e56a4e4ab60e46c"></div>
+    <div rel="gr:hasPriceSpecification" resource="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m#dba3634763cac6fe5fdbe344189fd019"></div>
+    <div rel="foaf:depiction v:image" resource="https://www.haupt.ch/out/pictures/generated/product/1/540_450_75/app-feldbotanik.jpg"></div>
+</div>    
+    
+            <div id="cookieNote">
+        <div class="alert alert-info" style="margin: 0;">
+            <button type="button" class="close" data-dismiss="alert">
+                <span aria-hidden="true">&times;</span><span class="sr-only">Schließen</span>
+            </button>
+            Dieser Online-Shop verwendet Cookies für ein optimales Einkaufserlebnis. Ohne Cookies ist der Funktionsumfang des Online-Shops eingeschränkt.
+            <span class="cancelCookie"><a href="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;cl=clearcookies" title="<u>Sind Sie damit nicht einverstanden, klicken Sie bitte hier.</u>"><u>Sind Sie damit nicht einverstanden, klicken Sie bitte hier.</u></a></span>
+        </div>
+    </div>
+    
+
+
+    
+    <header id="header">
+
+        <div class="container">
+
+            <div class="header-box">
+
+                <div class="row">
+                    <div class="col-xs-5 col-sm-6 col-md-4 logo-col">
+                        	
+
+                                     <a href="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;" title="">
+             <img src="https://www.haupt.ch/out/flow_child/img/logo_haupt.png" width="150" height="132"  alt="" style="width:auto;max-width:200px;height:auto;max-height:100px;">
+                            </a>
+
+
+
+
+       
+   
+
+                    </div>
+                    <div class="col-xs-7 col-sm-6 col-md-4 col-md-push-4 menus-col">
+                        
+                            <div class="menu-dropdowns pull-right">
+                                	
+	
+	<div class="btn-group header_newsletterlink">		
+		<a class="btn" href="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;cl=newsletter" rel="nofollow">Newsletter</a>						
+	</div>							
+								
+
+                                                                        
+                                
+
+
+
+
+       
+   
+
+                                ﻿ 
+   
+               
+                
+        
+      
+
+                                
+                                                                                                                                                                                        <div class="btn-group service-menu showLogin">
+    <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" data-href="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;cl=account">
+        
+                            Anmelden
+                                    <i class="fa fa-angle-down hidden-xs"></i>
+        
+    </button>
+    <ul class="dropdown-menu dropdown-menu-right pull-right" role="menu">
+        
+            <li>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-5 pull-right">
+                        <div class="service-menu-box clearfix">
+                            <div class="topPopList">
+    
+        <span class="lead">Konto</span>
+        <div class="flyoutBox">
+            <ul id="services" class="list-unstyled">
+                
+                    <li>
+                        <a href="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;cl=account">Mein Konto</a>
+                    </li>
+                                        <li>
+                        <a href="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;cl=account_noticelist"><span>Mein Merkzettel</span></a>
+                                            </li>
+                                                                                    <li>
+                            <a href="https://www.haupt.ch/de/my-downloads/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m"><span>Meine Downloads</span></a>
+                        </li>
+                                    
+            </ul>
+        </div>
+    
+</div>                                                    </div>
+                    </div>
+                                            <div class="col-xs-12 col-sm-7">
+                            <div class="service-menu-box clearfix">
+                                    <form class="form" id="login" name="login" action="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;" method="post">
+        <div id="loginBox" class="loginBox" >
+            <input type="hidden" name="stoken" value="3143E949" /><input type="hidden" name="force_sid" value="ii3q0cd22m6i9e32jcua2l2c4m" />
+<input type="hidden" name="lang" value="0" />
+            <input type="hidden" name="cnid" value="4c9cb74b1c4b04ccc08ba0487c90e024" />
+<input type="hidden" name="listtype" value="list" />
+<input type="hidden" name="actcontrol" value="details" />
+
+            <input type="hidden" name="fnc" value="login_noredirect">
+            <input type="hidden" name="cl" value="details">
+                        <input type="hidden" name="pgNr" value="0">
+            <input type="hidden" name="CustomError" value="loginBoxErrors">
+                            <input type="hidden" name="anid" value="2b31304de892847d6c179a599e8f9105">
+            
+            <span class="lead">Anmelden</span>
+
+            <div class="form-group">
+                <input id="loginEmail" type="email" name="lgn_usr" value="" class="form-control" placeholder="E-Mail-Adresse">
+            </div>
+
+            <div class="form-group">
+                <div class="input-group">
+                    <input id="loginPasword" type="password" name="lgn_pwd" class="form-control" value="" placeholder="Passwort">
+                    <span class="input-group-btn">
+                        <a class="forgotPasswordOpener btn btn-default" href="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;cl=forgotpwd" title="Passwort vergessen?">?</a>
+                    </span>
+                </div>
+            </div>
+
+                            <div class="checkbox">
+                    <label>
+                        <input type="checkbox" class="checkbox" value="1" name="lgn_cook" id="remember"> Passwort merken
+                    </label>
+                </div>
+            
+            <button type="submit" class="btn btn-primary">Anmelden</button>
+
+                            <a class="btn" id="registerLink" role="button" href="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;cl=register" title="Registrieren">Registrieren</a>
+            
+            
+
+        </div>
+    </form>
+                            </div>
+                        </div>
+                                    </div>
+            </li>
+        
+    </ul>
+</div>
+                                
+
+                                
+                                                                                                                                                                                        <div class="btn-group minibasket-menu">
+    <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" data-href="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;cl=basket">
+        
+            <i class="fa fa-shopping-cart fa-2x" aria-hidden="true"></i>
+                    
+    </button>
+    <ul class="dropdown-menu dropdown-menu-right pull-right" role="menu">
+        
+            <li>
+                <div class="row">
+                    <div class="col-xs-12 pull-right">
+                        <div class="minibasket-menu-box">
+                            
+
+            
+            <div class="alert alert-info">Der Warenkorb ist leer.</div>
+        
+    
+                        </div>
+                    </div>
+                </div>
+            </li>
+        
+    </ul>
+</div>
+                                
+                            </div>
+                        
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-4 col-md-pull-4 search-col">
+                        
+            <form class="form search" role="form" action="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;" method="get" name="search">
+            <input type="hidden" name="stoken" value="3143E949" /><input type="hidden" name="force_sid" value="ii3q0cd22m6i9e32jcua2l2c4m" />
+<input type="hidden" name="lang" value="0" />
+            <input type="hidden" name="cl" value="search">
+
+            
+                <div class="input-group">
+                    
+                        <input class="form-control" type="text" id="searchParam" name="searchparam" value="" placeholder="Suche">
+                    
+
+                    
+                        <span class="input-group-btn">
+                            <button type="submit" class="btn btn-primary" title="Suchen">
+                                <i class="fa fa-search"></i>
+                            </button>
+                        </span>
+                    
+                </div>
+            
+        </form>
+                        </div>
+                </div>
+
+            </div>
+        </div>
+
+        
+            <nav id="mainnav" class="navbar navbar-default fullviewlayout" role="navigation">
+            <div class="container">
+
+                
+
+                    <div class="navbar-header">
+                        
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button><span class="visible-xs-inline">Menü</span>
+                        
+                    </div>
+                    <div class="collapse navbar-collapse navbar-ex1-collapse">
+                        <ul id="navigation" class="nav navbar-nav">
+                            
+
+
+                              <!--  <li >
+                                    <a href="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;">Startseite</a>
+                                </li> -->
+
+                                                                                                            
+                                        <li class=" dropdown">
+                                            <a href="https://www.haupt.ch/buecher/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" class="dropdown-toggle" data-toggle="dropdown">
+                                                Bücher <i class="fa fa-angle-down"></i>                                            </a>
+
+                                                                                            <ul class="dropdown-menu">
+                                                                                                                                                                        
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/buecher/natur-garten/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Natur &amp; Garten</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/buecher/gestalten-design/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Gestalten &amp; Design</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/buecher/kultur-geschichte/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Kultur &amp; Geschichte</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/buecher/soziales-wirtschaft/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Soziales &amp; Wirtschaft</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/buecher/haupt-bei-utb/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Haupt bei UTB</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/buecher/architektur-tipps/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Architektur Tipps</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/buecher/letzte-exemplare/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Letzte Exemplare</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/?cl=d3_d3vlbrestapi_search&amp;force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Bücher suchen im VLB</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/buecher/tipps-unserer-buchhandlung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Tipps unserer Buchhandlung</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/buecher/buecher-abos/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Bücher-Abos</a>
+                                                                </li>
+                                                                                                                                                                                                                        </ul>
+                                                                                    </li>
+                                                                                                                                                
+                                        <li class="active dropdown">
+                                            <a href="https://www.haupt.ch/apps-e-books/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" class="dropdown-toggle" data-toggle="dropdown">
+                                                Apps &amp; E-Books <i class="fa fa-angle-down"></i>                                            </a>
+
+                                                                                            <ul class="dropdown-menu">
+                                                                                                                                                                        
+                                                                                                                            <li class="active">
+                                                                    <a class="current" href="https://www.haupt.ch/apps-e-books/apps/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Apps</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/apps-e-books/app-support/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">App-Support</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/apps-e-books/e-books/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">E-Books</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                                                                    </ul>
+                                                                                    </li>
+                                                                                                                                                
+                                        <li class=" dropdown">
+                                            <a href="https://www.haupt.ch/kurse-events/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" class="dropdown-toggle" data-toggle="dropdown">
+                                                Kurse &amp; Events <i class="fa fa-angle-down"></i>                                            </a>
+
+                                                                                            <ul class="dropdown-menu">
+                                                                                                                                                                        
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/kurse-events/kurse-atelier-14b/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Kurse Atelier 14B</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/kurse-events/events/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Events</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/kurse-events/haupt-auswaerts/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Haupt auswärts</a>
+                                                                </li>
+                                                                                                                                                                                                                        </ul>
+                                                                                    </li>
+                                                                                                                                                
+                                        <li class=" dropdown">
+                                            <a href="https://www.haupt.ch/service/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" class="dropdown-toggle" data-toggle="dropdown">
+                                                Service <i class="fa fa-angle-down"></i>                                            </a>
+
+                                                                                            <ul class="dropdown-menu">
+                                                                                                                                                                        
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/service/ueber-uns/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Über uns</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/service/unser-laden/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Unser Laden</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/service/atelier-14b-mieten/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Atelier 14B mieten</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/service/fuer-den-handel/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Für den Handel</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/service/fuer-presse-medien/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Für Presse / Medien</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/service/fuer-bibliotheken/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Für Bibliotheken</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/service/fuer-autorinnen-und-autoren/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Für Autorinnen und Autoren</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/service/rights/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Rights</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/kontakt/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Bestellen via Kontaktformular</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/newsletter/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Newsletter</a>
+                                                                </li>
+                                                                                                                                                                                                                                                                                            
+                                                                                                                            <li >
+                                                                    <a  href="https://www.haupt.ch/kontakt/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Kontakt</a>
+                                                                </li>
+                                                                                                                                                                                                                        </ul>
+                                                                                    </li>
+                                                                                                                                                               
+
+
+       
+   
+
+
+<li >
+	<a href="https://www.haupt.ch/magazin">Magazin</a>
+</li>
+
+
+       
+   
+
+                        </ul>
+
+                        <ul class="nav navbar-nav navbar-right fixed-header-actions">
+
+                            
+                                <li>
+    <a href="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;cl=basket" rel="nofollow">
+        <i class="fa fa-shopping-cart"></i>
+            </a>
+</li>                            
+
+                            <li>
+                                <a href="javascript:void(null)" class="search-toggle" rel="nofollow">
+                                    <i class="fa fa-search"></i>
+                                </a>
+                            </li>
+
+                        </ul>
+
+                        
+                    </div>
+                
+
+	
+	<div class="followus_header">
+		<div class="followusicon_header">
+			<a id="facebook_header" href="https://www.facebook.com/HauptVerlag/" title="Facebook" target="_blank">       
+				</a>
+		</div>
+		<div class="followusicon_header">
+			<a id="instagram_header" href="https://instagram.com/haupt_verlag/"  title="Instagram" target="_blank">     
+				</a>
+		</div>
+		<div class="followusicon_header">
+			<a id="twitter_header" href="https://twitter.com/hauptverlag" title="Twitter" target="_blank">
+				</a>
+		</div>
+
+		<div class="followusicon_header">
+			<a id="linkedin_header" href="https://ch.linkedin.com/company/haupt-verlag" title="Linkedin" target="_blank">
+				</a>
+		</div>		
+		<div class="followusicon_header">
+			<a id="pinterest_header" href="https://www.pinterest.com/hauptverlag/" title="Pinterest" target="_blank">
+				</a>
+		</div>
+		<div class="followusicon_header">
+			<a id="tiktok_header" href="https://www.tiktok.com/@haupt_verlag" title="TikTok" target="_blank">
+				</a>
+		</div>
+
+	</div>
+	
+			
+								
+
+
+
+
+
+       
+   
+
+
+            </div>
+        </nav>
+    
+        
+
+    </header>
+
+
+
+
+    
+
+    
+    <div id="wrapper" >
+
+        <div class="container">
+
+            <div class="underdog">
+
+                <div class="row">
+
+                    
+                </div>
+
+                <div class="content-box">
+
+                                            
+	
+                            
+    <div class="row"><div class="col-xs-12"><ol id="breadcrumb" class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList"><li class="text-muted">Sie sind hier:</li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://www.haupt.ch/apps-e-books/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" title="Apps &amp;amp; E-Books" itemprop="item"><span itemprop="name">Apps &amp; E-Books</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="active"><a href="https://www.haupt.ch/apps-e-books/apps/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" title="Apps" itemprop="item"><span itemprop="name">Apps</span></a><meta itemprop="position" content="2" /></li></ol></div></div>
+                         
+	   
+
+
+ 
+   
+
+                    
+                        
+
+                    <div class="row">
+                        
+                        <div class="col-xs-12 ">
+
+                            <div id="content">
+                                
+                                    
+                                                                                            <div id="details_container">
+        <div id="details">
+                                        
+                                    <div class="detailsParams listRefine bottomRound">
+                <div class="row refineParams clear" id="detailsItemsPager">
+                    <div class="col-xs-3 text-left pager-overview-link">
+                        <i class="fa fa-bars"></i> <a href="https://www.haupt.ch/apps-e-books/apps/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Zur Übersicht</a>
+                    </div>
+                    <div class="col-xs-3 text-left pager-prev">
+                                            </div>
+                    <div class="col-xs-3 text-center pager-current-page">
+                                                    Artikel 1 von 6
+                                            </div>
+                    <div class="col-xs-3 text-right pager-next">
+                                                    <a id="linkNextArticle" href="https://www.haupt.ch/apps-e-books/apps/tagaktive-schmetterlinge.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">nächster Artikel </a> <i class="fa fa-angle-right"></i>
+                                            </div>
+                </div>
+                                    <hr>
+                            </div>
+
+                        <div id="productinfo">
+                
+<div id="detailsMain">
+    
+
+
+
+    <form class="js-oxProductForm" action="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;" method="post">
+        <div class="hidden">
+            <input type="hidden" name="stoken" value="3143E949" /><input type="hidden" name="force_sid" value="ii3q0cd22m6i9e32jcua2l2c4m" />
+<input type="hidden" name="lang" value="0" />
+            <input type="hidden" name="cnid" value="4c9cb74b1c4b04ccc08ba0487c90e024" />
+<input type="hidden" name="listtype" value="list" />
+<input type="hidden" name="actcontrol" value="details" />
+
+            <input type="hidden" name="cl" value="details">
+            <input type="hidden" name="aid" value="2b31304de892847d6c179a599e8f9105">
+            <input type="hidden" name="anid" value="2b31304de892847d6c179a599e8f9105">
+            <input type="hidden" name="parentid" value="2b31304de892847d6c179a599e8f9105">
+            <input type="hidden" name="panid" value="">
+                    </div>
+
+<div class="detailsInfo clear" itemscope itemtype="http://schema.org/Product">
+    <div class="row">
+        <div class="col-xs-12 col-md-4 details-col-left">
+                        
+                
+                
+                
+
+                                                    
+                
+                                                                                                        						 	
+                    
+                    <div class="picture text-center">
+                        <a href="https://www.haupt.ch/out/pictures/master/product/1/app-feldbotanik.jpg" id="zoom1" data-width="648" data-height="648">
+                            <img src="https://www.haupt.ch/out/pictures/generated/product/1/540_450_75/app-feldbotanik.jpg" alt="Feldbotanik App " itemprop="image" class="img-responsive"  width="450" height="450">
+                        </a>
+                    </div>
+                            
+
+            
+                
+            
+        </div>
+
+        <div class="col-xs-12 col-sm-8 col-md-5 col-lg-6 details-col-middle">
+             
+   
+               
+                                                            <div class="shortdesc autoren" id="productShortdesc">Lüder, Rita</div>
+                                               
+       
+                <h1 id="productTitle" itemprop="name">
+                    Feldbotanik App 
+                </h1>
+            
+   
+  
+					<div class="shortdesc">Der Artentrainer für über 700 Arten - App für iOS und Android Geräte</div>
+        
+       
+            
+                         
+            <div class="shortdesc headlines">
+               <p><a href="https://apps.apple.com/ch/app/feldbotanik/id1436302312" title="" target="_blank"><img alt="" title="" src="https://www.haupt.ch/out/pictures/ddmedia/button_appstore_dt.png" width="135" height="40" border="0"></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=ch.haupt.naturapp.feldbotanik" title="" target="_blank"><img alt="" title="" src="https://www.haupt.ch/out/pictures/ddmedia/button_googleplay_d.png" width="135" height="40" border="0"></a><br>
+<br>
+EUR-Preise zwischen Android- und iOS-Version können sich aufgrund der Umrechnungskurse der App-Stores unterscheiden. </p>
+                
+            </div>       
+        		
+    	     
+      <span class="hidden" itemprop="description"><p>Die
+Feldbotanik-App und das dazugehörige Buch<em> </em>«Grundlagen der Feldbotanik» wollen sinnvolle Hilfsmittel für all
+jene sein, die ihre botanischen Kenntnisse aufbauen und Artenkenntnisse
+trainieren wollen. Während das Buch Zusammenhänge und Verwandtschaften erklärt
+und die bedeutendsten Pflanzenfamilien und Gattungen beschreibt, fokussiert die
+App gezielt auf das Trainieren der Artenkenntnisse.</p>
+<p>Die
+inhaltliche Auswahl der Arten in der App richtet sich nach dem Prüfungsstoff
+für die Zertifizierung von Botanikkenntnissen der Schweizerischen Botanischen
+Gesellschaft und nach den Botanikmodulen der NABU|naturgucker Akademie.</p>
+<p><span style="color: #ff4351;"><strong><i>Wichtig: die App wird aktuell überarbeitet und an die neusten Zertifizierungslisten 2022 angepasst. Das Update sollte Ende Jahr verfügbar sein.</i></strong></span></p>
+
+
+
+<p><strong><br></strong></p><p><strong>Funktionen in der App</strong></p>
+<ul>
+<li><strong>Artenliste: </strong>es werden über 700 Pflanzen porträtiert.
+Die Liste kann gefiltert werden nach den verschiedenen Zertifikatsstufen
+(CH-200, CH-400, CH-600, DE-200, DE-400).</li>
+<li><strong>Porträts</strong> enthalten Angaben zur Morphologie,
+Zertifikatsstufe, Synonymen, Familien- und Gattungszugehörigkeit. Jede Art wird
+durch mindestens vier Bilder visualisiert.</li>
+<li><strong>Arten-Trainer: </strong>Das Herzstück der App ermöglicht das Verbessern
+der eigenen Artenkenntnisse. Die Abfolge der Fragen basiert auf einem
+Algorithmus, der darauf abgestimmt ist, die Artenkenntnis effizient zu
+verbessern und das Gelernte nachhaltig im Gedächtnis zu verankern. Zwei
+Fragemodule: Antwort-Eingabe oder Multiple-Choice-Auswahl. Bei letzteren werden
+die Antwortoptionen dynamisch so zusammengestellt, dass (gattungs-)ähnliche
+Arten oder Verwechslungskandidaten in den Antwortmöglichkeiten enthalten sind,
+um so die Lernenden möglichst gut vorzubereiten. In den Artentrainer-Einstellungen kann der
+Trainingsumfang festgelegt werden (Zertifikatsstufe oder Familienebene).</li>
+<li><strong>Bestimmen: </strong>Ein dynamischer <strong>Multikriterienschlüssel</strong>
+verkleinert die Artenliste durch Auswahl und Kombination von Merkmalen. Je
+genauer die Art mit Merkmalen beschrieben werden kann, desto genauer ist die
+Bestimmung. Zur Bestimmung stehen über 70 Merkmale zur Grösse, Blütenform,
+-Farbe, Blattform, Anordnung der Blätter u.v.m. zur Verfügung.</li>
+<li><strong>Feldbuch: </strong>In
+einem Feldbuch haben Benutzer die Möglichkeit, persönliche Beobachtungen zu
+einer Art anzulegen, um die Arten zu dokumentieren. Wer es wünscht, kann seine
+Funde ausserdem an naturgucker.de übertragen. </li></ul>
+<p>Die
+App funktioniert offline. Für das Übertragen der Fundmeldungen
+per E-Mail oder an naturgucker.de sowie für die Anzeige der Rankingtabelle
+
+
+
+ wird eine Internetverbindung benötigt. </p>
+<p><strong>Systemvoraussetzungen
+iOS-Version: </strong><br>
+App für iPhone, iPod touch und iPad<br>
+Erfordert iOS 10.0 bzw. iPadOS 10.0 oder neuer.<br>
+Es muss genügend interner Speicher verfügbar sein. Die App ist ca. 880 MB gross.<br>
+<br></p>
+<p><strong>Systemvoraussetzungen
+Android-Version:</strong><br>
+App
+für Android-Smartphones und Tablets<br>
+Erfordert Android 5.0 oder höher.<br>
+Es muss genügend interner Speicher verfügbar sein. Die App ist ca. 700 MB gross.<br>
+<br></p>
+<p><a href="//www.haupt.ch/feldbotanik/" target="_self">Detaillierte Funktionsbeschreibung und Rangliste Arten-Trainer</a></p></span>
+	  
+                        
+	
+                <span class="small text-muted">ISBN: APP Feldbotanik</span>
+				<span class="hidden">
+					<span itemprop="isbn" content="APP Feldbotanik"></span>
+					<span itemprop="gtin" content=""></span>
+										<span itemprop="sku" content="APP Feldbotanik"></span>
+									</span>
+									
+					
+            
+
+                        <div class="star-ratings">
+                            </div>
+
+                        ﻿ 
+   
+               
+                
+        
+      
+
+                        <div class="information" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+			
+			<span class="hidden" itemprop="url" content="https://www.haupt.ch/apps-e-books/apps/feldbotanik-app.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m"></span>
+						
+			
+                <div class="productMainInfo">
+
+                                                            <div class="additionalInfo clearfix">
+                                                
+                                                    
+                    </div>
+                    
+                    
+                    
+                                            
+
+                                                            
+                                            
+                </div>
+
+                                
+                                    
+
+                <div class="pricebox">
+                       
+   
+	
+					
+			
+		
+				
+                                                                                                
+	
+		
+
+   
+
+        
+      
+
+                    
+
+                    
+                                                    
+                                                                    <label id="productPrice" class="price">
+                                                                                                                                                                <span>
+                                            <span class="price-from"></span>
+                                            <span class="price">25,00 <small>CHF</small></span>
+                                                                                            <span class="price-markup">*</span>
+                                            											
+                                            <span class="hidden">
+												<span itemprop="price">25</span>
+                                                <span itemprop="priceCurrency">CHF</span>
+                                            </span>
+												
+                                        </span>
+                                    </label>
+                                                                                            
+                                            
+                </div>
+
+                <div class="tobasket">
+                                        ﻿ 
+   
+
+
+
+
+
+                
+                
+        
+      
+
+                    
+                        <div class="tobasketFunction clear">
+                                                                                                                </div>
+                    
+
+                    
+	
+                                                    <span class="stockFlag notOnStock">
+                                <i class="fa fa-circle text-danger"></i>
+								
+                                                                                            </span>
+                                            
+   
+   
+		
+
+   
+
+        
+      
+
+                                                                
+                    
+                    
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-xs-12 col-sm-4 col-md-3 col-lg-2 details-col-right">
+            
+            
+   
+                
+                    <ul class="list-unstyled action-links">
+                                                <li>
+                                                    </li>
+
+						                        <li>
+                                                            <a id="loginToNotice" href="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;cl=account&amp;anid=2b31304de892847d6c179a599e8f9105&amp;sourcecl=details&amp;cnid=4c9cb74b1c4b04ccc08ba0487c90e024&amp;listtype=list&amp;actcontrol=oxwarticledetails">Auf den Merkzettel</a>
+                                                    </li>
+                       
+                        <li>
+                            <a href="mailto:app@haupt.ch?subject=Fragen%20zum%20Artikel%20APP%20Feldbotanik" id="questionMail">Fragen zum Artikel</a>
+                        </li>
+                    </ul>
+                
+            
+
+<div class="socialbuttons">
+	<div class="social"> 
+		<a id="facebook_share" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.haupt.ch%2Fapps-e-books%2Fapps%2Ffeldbotanik-app.html%3Fforce_sid%3Dii3q0cd22m6i9e32jcua2l2c4m" title="auf Facebook teilen" target="_blank">
+			Teilen<br>&nbsp;
+		</a>
+	</div>
+
+	<div class="social">
+		<a id="twitter_share" 				href="https://twitter.com/intent/tweet?text=Feldbotanik App&url=https%3A%2F%2Fwww.haupt.ch%2Fapps-e-books%2Fapps%2Ffeldbotanik-app.html%3Fforce_sid%3Dii3q0cd22m6i9e32jcua2l2c4m" title="Tweet it" target="_blank">
+			Teilen<br>&nbsp;
+		</a>
+	</div>
+	<div class="social">
+		<a id="pinterest_share" href="//pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.haupt.ch%2Fapps-e-books%2Fapps%2Ffeldbotanik-app.html%3Fforce_sid%3Dii3q0cd22m6i9e32jcua2l2c4m&media=https%3A%2F%2Fwww.haupt.ch%2Fout%2Fpictures%2Fgenerated%2Fproduct%2F1%2F540_450_75%2Fapp-feldbotanik.jpg&description=Lüder, Rita &laquo;Feldbotanik App. Der Artentrainer für über 700 Arten - App für iOS und Android Geräte&raquo; | APP Feldbotanik | www.haupt.ch  " title="Pin it" target="_blank" data-pin-do="buttonPin">
+			Teilen<br>&nbsp;
+		</a>
+	</div>
+	<div class="social">
+		<a id="whatsapp_share" 
+		href="whatsapp://send?text=https%3A%2F%2Fwww.haupt.ch%2Fapps-e-books%2Fapps%2Ffeldbotanik-app.html%3Fforce_sid%3Dii3q0cd22m6i9e32jcua2l2c4m" data-action="share/whatsapp/share" title="mit Whatsapp teilen" target="_blank">
+			Teilen<br>&nbsp;
+		</a>
+		
+	</div>
+	<div class="social">
+		<a id="suggestmail_share"
+		href="mailto:?subject=Eine Buchempfehlung: Feldbotanik App&amp;body=Hallo, das könnte dich interessieren. Einfach auf den Link klicken, und Du gelangst direkt zum Shop www.haupt.ch: https%3A%2F%2Fwww.haupt.ch%2Fapps-e-books%2Fapps%2Ffeldbotanik-app.html%3Fforce_sid%3Dii3q0cd22m6i9e32jcua2l2c4m"
+	  rel="nofollow" title="per E-Mail weiterempfehlen">
+			Teilen<br>&nbsp;
+		</a>
+	</div>	
+</div>
+                  
+
+        </div>
+    </div>
+            <hr>
+    </div>
+
+    </form>
+</div>
+
+<div id="detailsRelated" class="detailsRelated clear">
+    <div class="relatedInfo">
+        <div class="row">
+            <div class="col-xs-12">
+                
+
+
+    
+            		  
+ 
+        		
+                       
+
+		              
+            
+	            			
+             
+		
+                    			
+             	
+
+         
+	
+ 
+		        
+		 	
+	
+
+
+
+ 
+
+
+
+
+    
+
+
+    
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+<!-- Anfang bootstrap-tabcollapse -->
+
+
+
+
+	
+<div class="accordion-tabs js-tabs">
+  <ul role="tablist" class="tabs-tab-list">
+	                    <li role="presentation">			
+			<a href="#description" role="tab" id="description" aria-controls="description" aria-selected="true" class="tabs-trigger js-tabs-trigger">Beschreibung</a>
+			</li>
+                        <li role="presentation">			
+				<a href="#autorin" role="tab" id="autorin" aria-controls="autorin" class="tabs-trigger js-tabs-trigger">Autor/in</a>
+			
+		</li>
+                        <li role="presentation">			
+				<a href="#rez" role="tab" id="rez" aria-controls="rez" class="tabs-trigger js-tabs-trigger">Pressestimmen</a>
+			
+		</li>
+      </ul>  
+                                    		    <section id="description" role="tabpanel" aria-labelledby="description" class="tabs-panel js-tabs-panel" tabindex="0">	
+				<div class="accordeon-trigger js-accordeon-trigger" aria-controls="description" aria-expanded="true" tabindex="0">Beschreibung
+				<div class="accordeon-trigger-icon"><span class="label--open">Open</span><span class="label--close">Close</span>
+          <svg aria-hidden="true" focusable="false" viewBox="0 0 20 20">
+            <rect class="vert" height="18" width="2" fill="currentColor" y="1" x="9"></rect>
+            <rect height="2" width="18" fill="currentColor" y="9" x="1"></rect>
+          </svg>
+        </div>
+				</div>
+				
+				<div class="content" aria-hidden="false">
+				<p>Die
+Feldbotanik-App und das dazugehörige Buch<em> </em>«Grundlagen der Feldbotanik» wollen sinnvolle Hilfsmittel für all
+jene sein, die ihre botanischen Kenntnisse aufbauen und Artenkenntnisse
+trainieren wollen. Während das Buch Zusammenhänge und Verwandtschaften erklärt
+und die bedeutendsten Pflanzenfamilien und Gattungen beschreibt, fokussiert die
+App gezielt auf das Trainieren der Artenkenntnisse.</p>
+<p>Die
+inhaltliche Auswahl der Arten in der App richtet sich nach dem Prüfungsstoff
+für die Zertifizierung von Botanikkenntnissen der Schweizerischen Botanischen
+Gesellschaft und nach den Botanikmodulen der NABU|naturgucker Akademie.</p>
+<p><span style="color: #ff4351;"><strong><i>Wichtig: die App wird aktuell überarbeitet und an die neusten Zertifizierungslisten 2022 angepasst. Das Update sollte Ende Jahr verfügbar sein.</i></strong></span></p>
+
+
+
+<p><strong><br></strong></p><p><strong>Funktionen in der App</strong></p>
+<ul>
+<li><strong>Artenliste: </strong>es werden über 700 Pflanzen porträtiert.
+Die Liste kann gefiltert werden nach den verschiedenen Zertifikatsstufen
+(CH-200, CH-400, CH-600, DE-200, DE-400).</li>
+<li><strong>Porträts</strong> enthalten Angaben zur Morphologie,
+Zertifikatsstufe, Synonymen, Familien- und Gattungszugehörigkeit. Jede Art wird
+durch mindestens vier Bilder visualisiert.</li>
+<li><strong>Arten-Trainer: </strong>Das Herzstück der App ermöglicht das Verbessern
+der eigenen Artenkenntnisse. Die Abfolge der Fragen basiert auf einem
+Algorithmus, der darauf abgestimmt ist, die Artenkenntnis effizient zu
+verbessern und das Gelernte nachhaltig im Gedächtnis zu verankern. Zwei
+Fragemodule: Antwort-Eingabe oder Multiple-Choice-Auswahl. Bei letzteren werden
+die Antwortoptionen dynamisch so zusammengestellt, dass (gattungs-)ähnliche
+Arten oder Verwechslungskandidaten in den Antwortmöglichkeiten enthalten sind,
+um so die Lernenden möglichst gut vorzubereiten. In den Artentrainer-Einstellungen kann der
+Trainingsumfang festgelegt werden (Zertifikatsstufe oder Familienebene).</li>
+<li><strong>Bestimmen: </strong>Ein dynamischer <strong>Multikriterienschlüssel</strong>
+verkleinert die Artenliste durch Auswahl und Kombination von Merkmalen. Je
+genauer die Art mit Merkmalen beschrieben werden kann, desto genauer ist die
+Bestimmung. Zur Bestimmung stehen über 70 Merkmale zur Grösse, Blütenform,
+-Farbe, Blattform, Anordnung der Blätter u.v.m. zur Verfügung.</li>
+<li><strong>Feldbuch: </strong>In
+einem Feldbuch haben Benutzer die Möglichkeit, persönliche Beobachtungen zu
+einer Art anzulegen, um die Arten zu dokumentieren. Wer es wünscht, kann seine
+Funde ausserdem an naturgucker.de übertragen. </li></ul>
+<p>Die
+App funktioniert offline. Für das Übertragen der Fundmeldungen
+per E-Mail oder an naturgucker.de sowie für die Anzeige der Rankingtabelle
+
+
+
+ wird eine Internetverbindung benötigt. </p>
+<p><strong>Systemvoraussetzungen
+iOS-Version: </strong><br>
+App für iPhone, iPod touch und iPad<br>
+Erfordert iOS 10.0 bzw. iPadOS 10.0 oder neuer.<br>
+Es muss genügend interner Speicher verfügbar sein. Die App ist ca. 880 MB gross.<br>
+<br></p>
+<p><strong>Systemvoraussetzungen
+Android-Version:</strong><br>
+App
+für Android-Smartphones und Tablets<br>
+Erfordert Android 5.0 oder höher.<br>
+Es muss genügend interner Speicher verfügbar sein. Die App ist ca. 700 MB gross.<br>
+<br></p>
+<p><a href="//www.haupt.ch/feldbotanik/" target="_self">Detaillierte Funktionsbeschreibung und Rangliste Arten-Trainer</a></p>
+					
+
+                    					            
+							<br><p><br></p>                			
+									</div>
+			</section>
+            
+			
+                                    			
+			  <section id="autorin" role="tabpanel" aria-labelledby="autorin" class="tabs-panel js-tabs-panel">							
+					<div class="accordeon-trigger js-accordeon-trigger" aria-controls="autorin" aria-expanded="false" tabindex="0">Autor/in
+					<div class="accordeon-trigger-icon"><span class="label--open">Open</span><span class="label--close">Close</span>
+          <svg aria-hidden="true" focusable="false" viewBox="0 0 20 20">
+            <rect class="vert" height="18" width="2" fill="currentColor" y="1" x="9"></rect>
+            <rect height="2" width="18" fill="currentColor" y="9" x="1"></rect>
+          </svg>
+        </div>
+					</div>
+					<div class="content" aria-hidden="true">
+						<p><a href="https://www.haupt.ch/index.php?&cl=search&searchparam=Lüder+Rita" target="_self">Rita Lüder</a><br>Rita Lüder ist promovierte Biologin und arbeitet als freischaffende Illustratorin, Dozentin und Autorin.<br>Sie ist Pilzsachverständige und in der Deutschen Gesellschaft für Mykologie e.V. für die Nachwuchsarbeit tätig und bildet zum PilzCoach aus.</p>
+					</div>
+				</section>
+			
+        
+                                    			
+			  <section id="rez" role="tabpanel" aria-labelledby="rez" class="tabs-panel js-tabs-panel">							
+					<div class="accordeon-trigger js-accordeon-trigger" aria-controls="rez" aria-expanded="false" tabindex="0">Pressestimmen
+					<div class="accordeon-trigger-icon"><span class="label--open">Open</span><span class="label--close">Close</span>
+          <svg aria-hidden="true" focusable="false" viewBox="0 0 20 20">
+            <rect class="vert" height="18" width="2" fill="currentColor" y="1" x="9"></rect>
+            <rect height="2" width="18" fill="currentColor" y="9" x="1"></rect>
+          </svg>
+        </div>
+					</div>
+					<div class="content" aria-hidden="true">
+						<p>«Die verschiedenen Funktionen der Feldbotanik-App ergänzen sich gut, so dass das "Gesamtpaket" meines Erachtens ein gutes Werkzeug ist, um die eigenen botanischen Kenntnisse nach und nach zu erweitern und zu vertiefen.»<br>
+NABU Bürstadt</p>
+<p>«So ist Pflanzenbestimmung einfach! Über 700 Arten porträtiert diese Anwendung der Biologin Rita Lüder mit Angaben zur Morphologie, Zertifikatsstufe, Synonymen, Familien- und Gattungszugehörigkeit.»<br>
+PTA in der Apotheke
+</p>
+
+
+
+
+<p>
+Weitere Nutzerstimmen finden Sie auf <a href="https://play.google.com/store/apps/details?id=ch.haupt.naturapp.feldbotanik" target="_blank">Google Play in den Rezensionen</a>.</p>
+					</div>
+				</section>
+			
+        
+                
+</div>
+ 
+
+
+
+
+
+
+                            </div>
+        </div>
+    </div>
+
+    <div class="row">
+                    <div class="col-xs-12"><hr></div>
+        </div>
+
+
+
+    
+
+
+
+
+                
+
+    <div id="relProducts" class="relatedProducts">
+                                
+    
+    
+<div class="boxwrapper" id="boxwrapper_cross">
+                        <div class="page-header">
+                <h2>
+                    Ähnliche Produkte
+                                    </h2>
+
+                                    <small class="subhead">Dies könnte Sie auch interessieren.</small>
+                            </div>
+            
+                    
+
+        <div class="list-container" id="cross">
+                            
+                
+                                    <div class="row gridView newItems">
+                
+                <div class="productData col-xs-12 col-sm-6 col-md-3 productBox">
+                    <form name="tobasketcross_1" action="https://www.haupt.ch/apps-e-books/apps/flora-helvetica-pro-deutsch.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" method="get">
+        <div class="hidden">
+            <input type="hidden" name="cnid" value="4c9cb74b1c4b04ccc08ba0487c90e024" />
+<input type="hidden" name="listtype" value="list" />
+<input type="hidden" name="actcontrol" value="details" />
+
+            <input type="hidden" name="stoken" value="3143E949" /><input type="hidden" name="force_sid" value="ii3q0cd22m6i9e32jcua2l2c4m" />
+<input type="hidden" name="lang" value="0" />
+            <input type="hidden" name="pgNr" value="0">
+                                        <input type="hidden" name="cl" value="details">
+                <input type="hidden" name="anid" value="8ae67dfea1c292d217d0929bf5336835">
+                    </div>
+
+        
+
+
+	          <div class="picture text-center">
+            <a href="https://www.haupt.ch/apps-e-books/apps/flora-helvetica-pro-deutsch.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" title="Flora Helvetica Pro deutsch ">
+                <img src="https://www.haupt.ch/out/flow/img/spinner.gif" data-src="https://www.haupt.ch/out/pictures/generated/product/1/300_300_75/app_florapro_de.jpg" alt="Flora Helvetica Pro deutsch " class="img-responsive"  width="300" height="300">
+            </a>
+		</div>
+		
+ 		
+		 		 		      
+		
+					
+    				
+    				
+    				
+    				
+    
+		
+			    		    		    		    		    
+
+																														
+										
+									
+									
+									
+									
+			
+	                           
+    
+     
+    
+	
+					
+
+
+        <div class="listDetails text-center">
+            
+                <div class="title">
+                    <a id="cross_1" href="https://www.haupt.ch/apps-e-books/apps/flora-helvetica-pro-deutsch.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" class="title" title="Flora Helvetica Pro deutsch ">
+                        <span>Flora Helvetica Pro deutsch </span>
+                    </a>
+                </div>
+            
+
+            <div class="price text-center">
+                <div class="content">
+                     
+   
+ 
+
+ 
+		 		  
+			
+											
+				
+														
+								
+  		 		 												
+                                                                                                            
+                            
+                            
+                                                                    <span class="lead text-nowrap">
+                                                                                                                                    100,00
+                                                                                                                            <small>CHF</small>
+                                                                                     *                                                                            </span>
+                                                            
+                                                            <span id="productPricePerUnit_cross_1" class="pricePerUnit">
+                                    <span title="weight">Gewicht</span>
+                                    <span class="value">1.3 kg</span>
+                                </span>
+                                                                        
+						
+        
+      
+                </div>
+            </div>
+             
+	  <!-- Kategorie des Artikels abfragen-->
+	 	
+		  
+
+		
+                <div class="actions text-center">
+                    <div class="btn-group">
+                                                    <a class="btn btn-primary" href="https://www.haupt.ch/apps-e-books/apps/flora-helvetica-pro-deutsch.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" >Mehr Informationen</a>
+                                            </div>
+                </div>
+            
+
+			
+        
+      
+        </div>
+    </form>
+
+                </div>
+
+                
+                                            
+                
+                
+                <div class="productData col-xs-12 col-sm-6 col-md-3 productBox">
+                    <form name="tobasketcross_2" action="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;" method="post">
+        <div class="hidden">
+            <input type="hidden" name="cnid" value="4c9cb74b1c4b04ccc08ba0487c90e024" />
+<input type="hidden" name="listtype" value="list" />
+<input type="hidden" name="actcontrol" value="details" />
+
+            <input type="hidden" name="stoken" value="3143E949" /><input type="hidden" name="force_sid" value="ii3q0cd22m6i9e32jcua2l2c4m" />
+<input type="hidden" name="lang" value="0" />
+            <input type="hidden" name="pgNr" value="0">
+                                                    <input type="hidden" name="cl" value="details">
+                                                    <input type="hidden" name="fnc" value="tobasket">
+                                <input type="hidden" name="aid" value="9783258082622">
+                                    <input type="hidden" name="anid" value="9783258082622">
+                                <input type="hidden" name="am" value="1">
+                                </div>
+
+        
+
+
+	          <div class="picture text-center">
+            <a href="https://www.haupt.ch/buecher/natur-garten/grundlagen-der-feldbotanik.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" title="Grundlagen der Feldbotanik ">
+                <img src="https://www.haupt.ch/out/flow/img/spinner.gif" data-src="https://www.haupt.ch/out/pictures/generated/product/1/300_300_75/9783258082622.jpg" alt="Grundlagen der Feldbotanik " class="img-responsive"  width="207" height="300">
+            </a>
+		</div>
+		
+ 		
+		 		 		      
+		
+					
+    				
+    				
+    				
+    				
+    
+		
+			    		    		    		    		    
+
+																														
+										
+									
+									
+									
+									
+			
+	                           
+    
+     
+    
+	
+					
+
+
+        <div class="listDetails text-center">
+            
+                <div class="title">
+                    <a id="cross_2" href="https://www.haupt.ch/buecher/natur-garten/grundlagen-der-feldbotanik.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" class="title" title="Grundlagen der Feldbotanik ">
+                        <span>Grundlagen der Feldbotanik </span>
+                    </a>
+                </div>
+            
+
+            <div class="price text-center">
+                <div class="content">
+                     
+   
+ 
+
+ 
+		 		  
+			
+											
+				
+														
+								
+  		 		 												
+                                                                                                            
+                            
+                            
+                                                                    <span class="lead text-nowrap">
+                                                                                                                                    68,00
+                                                                                                                            <small>CHF</small>
+                                                                                     *                                                                            </span>
+                                                            
+                                                            <span id="productPricePerUnit_cross_2" class="pricePerUnit">
+                                    <span title="weight">Gewicht</span>
+                                    <span class="value">2.01 kg</span>
+                                </span>
+                                                                        
+						
+        
+      
+                </div>
+            </div>
+             
+	  <!-- Kategorie des Artikels abfragen-->
+	 	
+		  
+
+		
+                <div class="actions text-center">
+                    <div class="btn-group">
+                                                                                    <button type="submit" class="btn btn-default hasTooltip" data-placement="bottom" title="In den Warenkorb" data-container="body">
+                                    <i class="fa fa-shopping-cart"></i>
+                                </button>
+                                                        <a class="btn btn-primary" href="https://www.haupt.ch/buecher/natur-garten/grundlagen-der-feldbotanik.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" >Mehr Informationen</a>
+                                            </div>
+                </div>
+            
+
+			
+        
+      
+        </div>
+    </form>
+
+                </div>
+
+                                    </div>
+                
+                            
+                        
+        </div>
+    </div>        
+            </div>
+
+
+            
+    
+    
+<div class="boxwrapper" id="boxwrapper_similar">
+                        <div class="page-header">
+                <h2>
+                    Das könnte Sie auch interessieren
+                                    </h2>
+
+                                    <small class="subhead">Dies könnte Sie auch interessieren.</small>
+                            </div>
+            
+                    
+
+        <div class="list-container" id="similar">
+                            
+                
+                                    <div class="row gridView newItems">
+                
+                <div class="productData col-xs-12 col-sm-6 col-md-3 productBox">
+                    <form name="tobasketsimilar_1" action="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;" method="post">
+        <div class="hidden">
+            <input type="hidden" name="cnid" value="4c9cb74b1c4b04ccc08ba0487c90e024" />
+<input type="hidden" name="listtype" value="list" />
+<input type="hidden" name="actcontrol" value="details" />
+
+            <input type="hidden" name="stoken" value="3143E949" /><input type="hidden" name="force_sid" value="ii3q0cd22m6i9e32jcua2l2c4m" />
+<input type="hidden" name="lang" value="0" />
+            <input type="hidden" name="pgNr" value="0">
+                                                    <input type="hidden" name="cl" value="details">
+                                                    <input type="hidden" name="fnc" value="tobasket">
+                                <input type="hidden" name="aid" value="9783258080260">
+                                    <input type="hidden" name="anid" value="9783258080260">
+                                <input type="hidden" name="am" value="1">
+                                </div>
+
+        
+
+
+	          <div class="picture text-center">
+            <a href="https://www.haupt.ch/buecher/letzte-exemplare/parfuempflanzen.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" title="Parfümpflanzen ">
+                <img src="https://www.haupt.ch/out/flow/img/spinner.gif" data-src="https://www.haupt.ch/out/pictures/generated/product/1/300_300_75/9783258080260.jpg" alt="Parfümpflanzen " class="img-responsive"  width="209" height="300">
+            </a>
+		</div>
+		
+ 		
+		 		 		      
+		
+					
+    				
+    				
+    				
+    				
+    				
+    
+		
+			    		    		    		    		    		    
+
+																																			
+										
+									
+									
+									
+									
+									
+			
+	                           
+    
+     
+    
+	
+					
+
+
+        <div class="listDetails text-center">
+            
+                <div class="title">
+                    <a id="similar_1" href="https://www.haupt.ch/buecher/letzte-exemplare/parfuempflanzen.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" class="title" title="Parfümpflanzen ">
+                        <span>Parfümpflanzen </span>
+                    </a>
+                </div>
+            
+
+            <div class="price text-center">
+                <div class="content">
+                     
+   
+ 
+
+ 
+		 		  
+			
+											
+				
+														
+								
+  		 		 												
+                                                                                                            
+                            
+                            
+                                                                    <span class="lead text-nowrap">
+                                                                                                                                    12,00
+                                                                                                                            <small>CHF</small>
+                                                                                     *                                                                            </span>
+                                                            
+                                                            <span id="productPricePerUnit_similar_1" class="pricePerUnit">
+                                    <span title="weight">Gewicht</span>
+                                    <span class="value">0.69 kg</span>
+                                </span>
+                                                                        
+						
+        
+      
+                </div>
+            </div>
+             
+	  <!-- Kategorie des Artikels abfragen-->
+	 	
+		  
+
+		
+                <div class="actions text-center">
+                    <div class="btn-group">
+                                                                                    <button type="submit" class="btn btn-default hasTooltip" data-placement="bottom" title="In den Warenkorb" data-container="body">
+                                    <i class="fa fa-shopping-cart"></i>
+                                </button>
+                                                        <a class="btn btn-primary" href="https://www.haupt.ch/buecher/letzte-exemplare/parfuempflanzen.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" >Mehr Informationen</a>
+                                            </div>
+                </div>
+            
+
+			
+        
+      
+        </div>
+    </form>
+
+                </div>
+
+                
+                                            
+                
+                
+                <div class="productData col-xs-12 col-sm-6 col-md-3 productBox">
+                    <form name="tobasketsimilar_2" action="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;" method="post">
+        <div class="hidden">
+            <input type="hidden" name="cnid" value="4c9cb74b1c4b04ccc08ba0487c90e024" />
+<input type="hidden" name="listtype" value="list" />
+<input type="hidden" name="actcontrol" value="details" />
+
+            <input type="hidden" name="stoken" value="3143E949" /><input type="hidden" name="force_sid" value="ii3q0cd22m6i9e32jcua2l2c4m" />
+<input type="hidden" name="lang" value="0" />
+            <input type="hidden" name="pgNr" value="0">
+                                                    <input type="hidden" name="cl" value="details">
+                                                    <input type="hidden" name="fnc" value="tobasket">
+                                <input type="hidden" name="aid" value="9783258080277">
+                                    <input type="hidden" name="anid" value="9783258080277">
+                                <input type="hidden" name="am" value="1">
+                                </div>
+
+        
+
+
+	          <div class="picture text-center">
+            <a href="https://www.haupt.ch/buecher/natur-garten/flora-amabilis.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" title="Flora amabilis ">
+                <img src="https://www.haupt.ch/out/flow/img/spinner.gif" data-src="https://www.haupt.ch/out/pictures/generated/product/1/300_300_75/9783258080277.jpg" alt="Flora amabilis " class="img-responsive"  width="185" height="300">
+            </a>
+		</div>
+		
+ 		
+		 		 		      
+		
+					
+    				
+    				
+    				
+    				
+    
+		
+			    		    		    		    		    
+
+																														
+										
+									
+									
+									
+									
+			
+	                           
+    
+     
+    
+	
+					
+
+
+        <div class="listDetails text-center">
+            
+                <div class="title">
+                    <a id="similar_2" href="https://www.haupt.ch/buecher/natur-garten/flora-amabilis.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" class="title" title="Flora amabilis ">
+                        <span>Flora amabilis </span>
+                    </a>
+                </div>
+            
+
+            <div class="price text-center">
+                <div class="content">
+                     
+   
+ 
+
+ 
+		 		  
+			
+											
+				
+														
+								
+  		 		 												
+                                                                                                            
+                            
+                            
+                                                                    <span class="lead text-nowrap">
+                                                                                                                                    28,00
+                                                                                                                            <small>CHF</small>
+                                                                                     *                                                                            </span>
+                                                            
+                                                            <span id="productPricePerUnit_similar_2" class="pricePerUnit">
+                                    <span title="weight">Gewicht</span>
+                                    <span class="value">0.58 kg</span>
+                                </span>
+                                                                        
+						
+        
+      
+                </div>
+            </div>
+             
+	  <!-- Kategorie des Artikels abfragen-->
+	 	
+		  
+
+		
+                <div class="actions text-center">
+                    <div class="btn-group">
+                                                                                    <button type="submit" class="btn btn-default hasTooltip" data-placement="bottom" title="In den Warenkorb" data-container="body">
+                                    <i class="fa fa-shopping-cart"></i>
+                                </button>
+                                                        <a class="btn btn-primary" href="https://www.haupt.ch/buecher/natur-garten/flora-amabilis.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" >Mehr Informationen</a>
+                                            </div>
+                </div>
+            
+
+			
+        
+      
+        </div>
+    </form>
+
+                </div>
+
+                
+                                            
+                
+                
+                <div class="productData col-xs-12 col-sm-6 col-md-3 productBox">
+                    <form name="tobasketsimilar_3" action="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;" method="post">
+        <div class="hidden">
+            <input type="hidden" name="cnid" value="4c9cb74b1c4b04ccc08ba0487c90e024" />
+<input type="hidden" name="listtype" value="list" />
+<input type="hidden" name="actcontrol" value="details" />
+
+            <input type="hidden" name="stoken" value="3143E949" /><input type="hidden" name="force_sid" value="ii3q0cd22m6i9e32jcua2l2c4m" />
+<input type="hidden" name="lang" value="0" />
+            <input type="hidden" name="pgNr" value="0">
+                                                    <input type="hidden" name="cl" value="details">
+                                                    <input type="hidden" name="fnc" value="tobasket">
+                                <input type="hidden" name="aid" value="9783258081052">
+                                    <input type="hidden" name="anid" value="9783258081052">
+                                <input type="hidden" name="am" value="1">
+                                </div>
+
+        
+
+
+	          <div class="picture text-center">
+            <a href="https://www.haupt.ch/buecher/natur-garten/stachelbeeren.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" title="Stachelbeeren ">
+                <img src="https://www.haupt.ch/out/flow/img/spinner.gif" data-src="https://www.haupt.ch/out/pictures/generated/product/1/300_300_75/9783258081052.jpg" alt="Stachelbeeren " class="img-responsive"  width="246" height="300">
+            </a>
+		</div>
+		
+ 		
+		 		 		      
+		
+					
+    				
+    				
+    				
+    				
+    
+		
+			    		    		    		    		    
+
+																														
+										
+									
+									
+									
+									
+			
+	                           
+    
+     
+    
+	
+					
+
+
+        <div class="listDetails text-center">
+            
+                <div class="title">
+                    <a id="similar_3" href="https://www.haupt.ch/buecher/natur-garten/stachelbeeren.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" class="title" title="Stachelbeeren ">
+                        <span>Stachelbeeren </span>
+                    </a>
+                </div>
+            
+
+            <div class="price text-center">
+                <div class="content">
+                     
+   
+ 
+
+ 
+		 		  
+			
+											
+				
+														
+								
+  		 		 												
+                                                                                                            
+                            
+                            
+                                                                    <span class="lead text-nowrap">
+                                                                                                                                    39,90
+                                                                                                                            <small>CHF</small>
+                                                                                     *                                                                            </span>
+                                                            
+                                                            <span id="productPricePerUnit_similar_3" class="pricePerUnit">
+                                    <span title="weight">Gewicht</span>
+                                    <span class="value">1.02 kg</span>
+                                </span>
+                                                                        
+						
+        
+      
+                </div>
+            </div>
+             
+	  <!-- Kategorie des Artikels abfragen-->
+	 	
+		  
+
+		
+                <div class="actions text-center">
+                    <div class="btn-group">
+                                                                                    <button type="submit" class="btn btn-default hasTooltip" data-placement="bottom" title="In den Warenkorb" data-container="body">
+                                    <i class="fa fa-shopping-cart"></i>
+                                </button>
+                                                        <a class="btn btn-primary" href="https://www.haupt.ch/buecher/natur-garten/stachelbeeren.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" >Mehr Informationen</a>
+                                            </div>
+                </div>
+            
+
+			
+        
+      
+        </div>
+    </form>
+
+                </div>
+
+                
+                                            
+                
+                
+                <div class="productData col-xs-12 col-sm-6 col-md-3 productBox">
+                    <form name="tobasketsimilar_4" action="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;" method="post">
+        <div class="hidden">
+            <input type="hidden" name="cnid" value="4c9cb74b1c4b04ccc08ba0487c90e024" />
+<input type="hidden" name="listtype" value="list" />
+<input type="hidden" name="actcontrol" value="details" />
+
+            <input type="hidden" name="stoken" value="3143E949" /><input type="hidden" name="force_sid" value="ii3q0cd22m6i9e32jcua2l2c4m" />
+<input type="hidden" name="lang" value="0" />
+            <input type="hidden" name="pgNr" value="0">
+                                                    <input type="hidden" name="cl" value="details">
+                                                    <input type="hidden" name="fnc" value="tobasket">
+                                <input type="hidden" name="aid" value="9783258077826">
+                                    <input type="hidden" name="anid" value="9783258077826">
+                                <input type="hidden" name="am" value="1">
+                                </div>
+
+        
+
+
+	          <div class="picture text-center">
+            <a href="https://www.haupt.ch/buecher/letzte-exemplare/bluetengeheimnisse.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" title="Blütengeheimnisse ">
+                <img src="https://www.haupt.ch/out/flow/img/spinner.gif" data-src="https://www.haupt.ch/out/pictures/generated/product/1/300_300_75/9783258077826.jpg" alt="Blütengeheimnisse " class="img-responsive"  width="268" height="300">
+            </a>
+		</div>
+		
+ 		
+		 		 		      
+		
+					
+    				
+    				
+    				
+    				
+    				
+    
+		
+			    		    		    		    		    		    
+
+																																			
+										
+									
+									
+									
+									
+									
+			
+	                           
+    
+     
+    
+	
+					
+
+
+        <div class="listDetails text-center">
+            
+                <div class="title">
+                    <a id="similar_4" href="https://www.haupt.ch/buecher/letzte-exemplare/bluetengeheimnisse.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" class="title" title="Blütengeheimnisse ">
+                        <span>Blütengeheimnisse </span>
+                    </a>
+                </div>
+            
+
+            <div class="price text-center">
+                <div class="content">
+                     
+   
+ 
+
+ 
+		 		  
+			
+											
+				
+														
+								
+  		 		 												
+                                                                                                            
+                            
+                            
+                                                                    <span class="lead text-nowrap">
+                                                                                                                                    24,90
+                                                                                                                            <small>CHF</small>
+                                                                                     *                                                                            </span>
+                                                            
+                                                            <span id="productPricePerUnit_similar_4" class="pricePerUnit">
+                                    <span title="weight">Gewicht</span>
+                                    <span class="value">1.3 kg</span>
+                                </span>
+                                                                        
+						
+        
+      
+                </div>
+            </div>
+             
+	  <!-- Kategorie des Artikels abfragen-->
+	 	
+		  
+
+		
+                <div class="actions text-center">
+                    <div class="btn-group">
+                                                                                    <button type="submit" class="btn btn-default hasTooltip" data-placement="bottom" title="In den Warenkorb" data-container="body">
+                                    <i class="fa fa-shopping-cart"></i>
+                                </button>
+                                                        <a class="btn btn-primary" href="https://www.haupt.ch/buecher/letzte-exemplare/bluetengeheimnisse.html?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" >Mehr Informationen</a>
+                                            </div>
+                </div>
+            
+
+			
+        
+      
+        </div>
+    </form>
+
+                </div>
+
+                                    </div>
+                
+                            
+                        
+        </div>
+    </div>    
+
+
+    
+
+
+        
+
+</div>            </div>
+        </div>
+    </div>
+
+
+
+
+    
+                                                                    
+                            </div>
+
+                        </div>
+
+                                            </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    
+            
+
+    
+    <footer id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-md-8">
+                    <div class="row">
+                        <div class="footer-left-part">
+                            
+                                <section class="col-xs-12 col-sm-3 footer-box footer-box-service">
+                                    <div class="h4 footer-box-title">Service</div>
+                                    <div class="footer-box-content">
+                                        
+                                            <ul class="services list-unstyled">
+        
+            <li><a href="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;cl=contact">Kontakt</a></li>
+                            <li><a href="https://www.haupt.ch/hilfe/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Hilfe</a></li>
+                                                            
+                <li>
+                    <a href="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;cl=basket">
+                        Warenkorb
+                    </a>
+                                    </li>
+            
+                        <li><a href="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;cl=account">Konto</a></li>
+            <li>
+                <a href="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;cl=account_noticelist">
+                    Merkzettel
+                </a>
+                            </li>
+                                        <li><a href="https://www.haupt.ch/de/my-downloads/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Meine Downloads</a></li>
+                    
+    </ul>
+                                        
+                                    </div>
+                                </section>
+                            
+                            
+                                <section class="col-xs-12 col-sm-3 footer-box footer-box-information">
+                                    <div class="h4 footer-box-title">Informationen</div>
+                                    <div class="footer-box-content">
+                                        
+                                            <ul class="information list-unstyled">
+                    <li><a href="https://www.haupt.ch/impressum/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Impressum</a></li>
+                            <li><a href="https://www.haupt.ch/agb/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">AGB</a></li>
+                            <li><a href="https://www.haupt.ch/datenschutz/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Datenschutz</a></li>
+                            <li><a href="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Zahlung und Lieferung</a></li>
+                            <li><a href="https://www.haupt.ch/widerrufsrecht/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Widerrufsrecht</a></li>
+                            <li><a href="https://www.haupt.ch/wie-bestellen/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Wie bestellen?</a></li>
+                                    <li><a href="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;cl=newsletter">Newsletter</a></li>
+                    </ul>
+                                        
+                                    </div>
+                                </section>
+                            
+                                                            
+		
+                                
+
+									
+<section class="col-xs-12 col-sm-3 footer-box footer-box-categories">
+    <div class="h4 footer-box-title">Über Haupt</div>
+        <div class="footer-box-content">									
+									
+													    
+						<ul class="categories list-unstyled">	   
+															  
+															  
+															  
+															  
+															
+									
+									   																																				<li><a href="https://www.haupt.ch/unternehmen/firmenportrait/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" >Firmenportrait </a></li>
+																																																<li><a href="https://www.haupt.ch/unternehmen/oeffnungszeiten/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" >Öffnungszeiten </a></li>
+																																																<li><a href="https://www.haupt.ch/unternehmen/team/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" >Team </a></li>
+																																																<li><a href="https://www.haupt.ch/unternehmen/jobs/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" >Jobs </a></li>
+																																																<li><a href="https://www.haupt.ch/unternehmen/so-finden-sie-uns/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m" >So finden Sie uns... </a></li>
+																																																<li><a href="https://www.haupt.ch/index.php?cl=alist&amp;searchparam=&amp;cnid=790ba178fb3f8828fd060ed6b1286010&amp;attrfilter%5BAngebot%5D%5BNeuerscheinung%5D=1&amp;fnc=executefilter&amp;force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;#multifilter_filters" >Neuerscheinungen </a></li>
+																																	 
+																		 	<li><a href="https://www.haupt.ch/magazin">Neuigkeiten bei Haupt</a></li>
+										<li><a href="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;cl=contact">Kontakt</a></li>
+								  
+													</ul>      
+				        </div>
+</section>
+                                                    </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-4">
+                    <div class="row">
+                        <div class="footer-right-part">
+                            <div class="col-xs-6 col-xs-offset-3 col-sm-12 col-sm-offset-0">
+                                
+                                
+
+<section class="footer-box footer-box-newsletter">
+     <div class="h4 footer-box-title">Folgen Sie uns auf</div>
+        <div class="footer-box-content footer-box-followus">
+
+			<div class="followusicon">
+				<a id="facebook" href="https://www.facebook.com/HauptVerlag/" title="Facebook" target="_blank">        
+				</a>
+			</div>
+			<div class="followusicon">
+				<a id="instagram" href="https://instagram.com/haupt_verlag/"  title="Instagram" target="_blank">     
+				</a>
+			</div>
+			<div class="followusicon">
+				<a id="twitter" href="https://twitter.com/hauptverlag" title="Twitter" target="_blank">
+				</a>
+			</div>
+				<div class="followusicon">
+				<a id="linkedin" href="https://ch.linkedin.com/company/haupt-verlag" title="Linkedin" target="_blank">
+				</a>
+			</div>
+
+			<div class="followusicon">
+				<a id="pinterest" href="https://www.pinterest.com/hauptverlag/" title="Pinterest" target="_blank">
+				</a>
+			</div>
+
+			<div class="followusicon">
+				<a id="tiktok" href="https://www.tiktok.com/@haupt_verlag" title="TikTok" target="_blank">
+				</a>
+			</div>
+		</div>
+		<div class="footer-box-content footer-box-followus">
+			<div class="newsletterlink">
+				<a  href="https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;cl=newsletter" rel="nofollow">Abonnieren Sie unsere Newsletter</a></div>
+		</div>
+</section>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="spacer"></div>
+
+                        
+                            
+                    </div>
+
+                
+        
+                <div id="incVatInfo">
+                        * <span class="deliveryInfo">inkl. MwSt., zzgl. <a href="https://www.haupt.ch/zahlung-und-lieferung/?force_sid=ii3q0cd22m6i9e32jcua2l2c4m">Versandkosten</a></span>
+                    </div>
+                
+        
+            </footer>
+
+    <div class="legal">
+        <div class="container">
+            <div class="legal-box">
+                <div class="row">
+                    <section class="col-sm-12">
+                        
+                                                            <h4><i class="fa fa-gift"></i> <a href="https://www.haupt.ch/zahlung-und-lieferung/#versandkostentab">kostenloser Versand in CH/FL/DE ab 50 CHF bzw. 50 EUR</a></h4><h4><i class="fa fa-shopping-cart"></i> <a href="https://www.haupt.ch/zahlung-und-lieferung/#zahlungsarten">CH/FL: Kauf auf Rechnung, TWINT, Karten <i class="fa fa-cc-visa"></i> <i class="fa fa-cc-mastercard"></i> | weltweit: Karten <i class="fa fa-cc-visa"></i> <i class="fa fa-cc-mastercard"></i>
+</a></h4><h4><i class="fa fa-info-circle"></i> Haupt Verlag AG, Falkenplatz 14, CH-3012 Bern, Tel. +41 31 309 09 09 (Buchhandlung) | +41 31 309 09 00 (Verlag), <script type="text/javascript">eval(decodeURIComponent('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%62%65%73%74%65%6c%6c%75%6e%67%40%68%61%75%70%74%2e%63%68%22%20%3e%62%65%73%74%65%6c%6c%75%6e%67%40%68%61%75%70%74%2e%63%68%3c%2f%61%3e%27%29%3b'))</script></h4>
+                                                    
+                    </section>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+
+    
+        <div id="d3GAOptOut">
+            <a href="javascript:gaOptout();">Klicken Sie hier, um Google Analytics zu deaktivieren.</a>
+                        
+        </div>
+    
+
+
+
+    
+    
+
+    <i class="fa fa-chevron-circle-up icon-4x" id="jumptotop"></i>
+
+                            </div>
+        </div>
+
+        
+                    <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="pswp__bg"></div>
+
+        <div class="pswp__scroll-wrap">
+                <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+                <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                                                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>        
+        
+            <script>
+    var oFlow = oFlow || [];
+    oFlow.i18n =
+        {
+            DD_FORM_VALIDATION_VALIDEMAIL:     "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+            DD_FORM_VALIDATION_PASSWORDAGAIN:  "Die Passwörter stimmen nicht überein.",
+            DD_FORM_VALIDATION_NUMBER:         "Bitte geben Sie eine Zahl ein.",
+            DD_FORM_VALIDATION_INTEGER:        "Es sind keine Nachkommastellen erlaubt.",
+            DD_FORM_VALIDATION_POSITIVENUMBER: "Bitte geben Sie eine positive Zahl ein.",
+            DD_FORM_VALIDATION_NEGATIVENUMBER: "Bitte geben Sie eine negative Zahl ein.",
+            DD_FORM_VALIDATION_REQUIRED:       "Bitte Wert angeben.",
+            DD_FORM_VALIDATION_CHECKONE:       "Bitte wählen Sie mindestens eine Option."
+        };
+</script>
+            
+            
+            
+        
+ 
+
+
+
+
+		
+
+
+
+
+
+<!-- Contact -->
+
+        
+        <!--[if gte IE 9]><style type="text/css">.gradient {filter:none;}</style><![endif]-->
+        <script type="text/javascript" src="https://www.haupt.ch/out/flow_child/src/js/libs/jquery.min.js?1589280107"></script>
+<script type="text/javascript" src="https://www.haupt.ch/out/flow_child/src/js/libs/jquery-ui.min.js?1589280107"></script>
+<script type="text/javascript" src="https://www.haupt.ch/out/flow_child/src/js/scripts.min.js?1589280107"></script>
+<script type="text/javascript" src="https://www.haupt.ch/out/flow_child/src/js/libs/jquery.cookie.min.js?1589280107"></script>
+<script type="text/javascript" src="https://www.haupt.ch/out/flow_child/src/js/widgets/oxcookienote.min.js?1589280108"></script>
+<script type="text/javascript" src="https://www.haupt.ch/modules/haupt/hlayout/out/src/js/a11y-accordion-tabs.min.js"></script>
+<script type="text/javascript" src="https://www.haupt.ch/out/flow_child/src/js/libs/photoswipe.min.js?1589280107"></script>
+<script type="text/javascript" src="https://www.haupt.ch/out/flow_child/src/js/libs/photoswipe-ui-default.min.js?1589280107"></script>
+<script type="text/javascript" src="https://www.haupt.ch/out/flow_child/src/js/pages/details.min.js?1589280108"></script>
+<script type="text/javascript" src="https://www.haupt.ch/out/flow_child/src/js/libs/jqBootstrapValidation.min.js?1589280107"></script><script type='text/javascript'>$( document ).ready( function() { Flow.initDetailsEvents(); });
+$( document ).ready( function() { Flow.initEvents();});
+$('input,select,textarea').not('[type=submit]').jqBootstrapValidation();
+$.cookie('testing', 'yes'); if(!$.cookie('testing')) $('#cookieNote').hide(); else{ $('#cookieNote').show(); $.cookie('testing', null, -1);}
+$('#cookieNote').oxCookieNote();
+var gaProperty = 'UA-49673661-1';
+
+                var disableStr = 'ga-disable-' + gaProperty;
+                if (document.cookie.indexOf(disableStr + '=true') > -1) {
+                    window[disableStr] = true;
+					
+                }
+
+                function gaOptout() {
+                    document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+                    window[disableStr] = true;
+                    $('#d3GAOptOut').remove();
+					alert(unescape('Das Tracking durch Google Analytics wurde in Ihrem Browser f%FCr diese Website deaktiviert.'));
+                }
+
+                if (window[disableStr]) {
+                    $('#d3GAOptOut').remove();
+
+                }</script>
+
+                    
+
+
+<script type="text/javascript">var sBaseUrl = 'https://www.haupt.ch/index.php?force_sid=ii3q0cd22m6i9e32jcua2l2c4m&amp;';var sActCl = 'details';</script>
+
+
+
+
+        
+        
+    </body>
+</html>

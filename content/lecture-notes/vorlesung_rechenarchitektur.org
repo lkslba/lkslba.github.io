@@ -1,0 +1,43 @@
+#+title: 28032023_prozessor
+
+* Performance
+
+Performance im Zusammenhang mit CPUs kann durch verschiedene Metriken gemessen werden, je nach Priorität. Beispiel Geschwindigkeit, Stromverbrauch, Langlebigkeit etc.
+
+** Definitionen Performace (Metrik: Geschwindikteit)
+*** Antwortzeit
+Zeit zwischen Start und Ende eines Programms.
+Kann beispielsweise mit Performance = 1 / Ausführungszeit gemessen werden.
+*** Durchsatz
+Totale Menge an Arbeit die in einer gegebenen Zeit erledigt wird.
+Beispielsweise Programme/Stunde. Kürzere Antwortzeit verbessert meistens auch den Durchsatz.
+
+** Performance Faktoren
+Performance Faktoren müssen zwischen total verstrichener Zeit und Zeit für ein Programm unterscheiden (I/O Wartezeiten, arbeiten an anderen Programmen etc.)
+*** CPU Ausführungszeit
+Zeit, welche die CPU an einem Programm arbeitet.
+Wird berechnet:
+
+CPU Ausführungszeit für ein Programm = Benötigte Taktzyklen x Taktdauer
+= Benötigte Taktzyklen / Taktrate
+
+--> Performance kann durch kürzere Taktdauer verbessert werden.
+
+*** CPI: Taktzyklen pro Befehl
+
+Nicht alle Befehle benötigen die gleiche Ausführungszeit (normalerweise).
+
+Zyklen pro Befehl (Clock Cycles Per Instruction, CPI) – Durchschnittliche
+Anzahl der Taktzyklen, die pro Befehl für ein Programm erforderlich sind
+
+
+** DIE Performance Gleichung
+CPU Zeit = Befehlszähler x CPI x Taktdauer
+         = (Befehlszähler x CPI) / Taktrate
+
+
+* Prozessor bauen
+** CMOS --> LogikGatter
+
+** ALU
+**

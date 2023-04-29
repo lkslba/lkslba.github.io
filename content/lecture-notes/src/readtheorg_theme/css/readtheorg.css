@@ -2,7 +2,7 @@
 @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
 
 h1,h2,h3,h4,h5,h6,legend{
-    font-family:"Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
+    font-family:"Jetbrains Mono","ff-tisa-web-pro","Georgia",Arial,sans-serif;
     font-weight:700;
     margin-top:0;
 }
@@ -11,6 +11,7 @@ h1{
     font-size:175%;
     text-align: left !important;
     margin-bottom: 0.83em !important;
+    color:rgb(245, 119, 187)
 }
 
 .subtitle{
@@ -19,27 +20,27 @@ h1{
 
 h2{
     font-size:150%;
+    color:rgb(176, 141, 244)
 }
 
 h3{
     font-size:125%;
+    color:rgb(203, 178, 247)
 }
 
 h4{
     font-size:115%;
+    color:rgb(247, 161, 208)
 }
 
 h5{
     font-size:110%;
+    color:rgb(222, 207, 249)
 }
 
 h6{
     font-size:100%;
-}
-
-h4,h5,h6{
-    color:#2980B9;
-    font-weight:300;
+    color:rgb(250, 197, 227)
 }
 
 html{
@@ -50,16 +51,16 @@ html{
 }
 
 body{
-    background:#edf0f2;
-    color:#404040;
-    font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+    background:#282a36;
+    color:#f8f8f2;
+    font-family:"Jetbrains Mono","proxima-nova","Helvetica Neue",Arial,sans-serif;
     font-weight:normal;
     margin:0;
     min-height:100%;
 }
 
 #content{
-    background:#fcfcfc;
+    background:#282a36;
     margin-left:300px;
     /* margin:auto; */
     max-width:800px;
@@ -77,8 +78,8 @@ b,strong{
     font-weight:bold}
 
 blockquote{
-    background-color: #F0F0F0;
-    border-left:5px solid #CCCCCC;
+    background-color: #282a36;
+    border-left:5px solid #ff79c6;
     font-style:italic;
     line-height:24px;
     margin:0px 0px 24px 0px;
@@ -254,10 +255,10 @@ dl dd{
 
 @media screen and (min-width: 1400px){
     #content{
-        background:rgba(0,0,0,0.05)}
+        background:#282a36}
 
     #content{
-        background:#fcfcfc}
+        background:#282a36	}
 }
 
 @media screen and (max-width: 768px){
@@ -279,10 +280,10 @@ dl dd{
 }
 
 code{
-    background:#fff;
-    border:solid 1px #e1e4e5;
+    background:#6272a4;
+    border:solid 3px #ff79c6;
     /* color:#000;  for clickable code */
-    font-family:Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace;
+    font-family:"Jetbrains Mono","Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace;
     font-size:75%;
     max-width:100%;
     overflow-x:auto;
@@ -296,7 +297,7 @@ code{
     padding:24px;
     padding-top:48px;
     font-weight:500;
-    background:#fff;
+    background:#282a36;
     position:relative}
 
 .codeblock-example:after{
@@ -316,13 +317,13 @@ code{
     border:1px solid #e1e4e5;
     padding:12px;
     overflow-x:auto;
-    background:#fff;
+    background:#282a36;
     margin:1px 0 24px 0}
 
 pre.src{
     /* color:#404040; */
     display:block;
-    font-family:Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace;
+    font-family:"Jetbrains Mono","Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace;
     font-size:12px;
     line-height:1.5;
     margin:1px 0px 24px 0px;
@@ -332,7 +333,7 @@ pre.src{
 }
 
 .example{
-    background:#f3f6f6;
+    background:#282a36;
     border:1px solid #e1e4e5;
     color:#404040;
     font-size: 12px;
@@ -347,7 +348,7 @@ table{
     border-spacing:0;
     empty-cells:show;
     margin-bottom:24px;
-    border-bottom:1px solid #e1e4e5;
+    border-bottom:1px solid #ff79c6;
 }
 
 td{
@@ -358,33 +359,33 @@ table td,table th{
     margin:0;
     overflow:visible;
     padding:8px 16px;
-    background-color:white;
-    border:1px solid #e1e4e5;
+    background-color:#6272a4;
+    border:1px solid #ff79c6;
 }
 
 table thead th{
     font-weight:bold;
-    border-top:3px solid #e1e4e5;
-    border-bottom:1px solid #e1e4e5;
+    border-top:3px solid #ff79c6;
+    border-bottom:3px solid #ff79c6;
 }
 
 table caption{
-    color:#000;
-    font:italic 85%/1 arial,sans-serif;
+    color:#f8f8f2;
+    font:italic 85%/1 "Jetbrains Mono",sans-serif;
     padding:1em 0;
 }
 
 table tr:nth-child(2n-1) td{
-    background-color:#f3f6f6;
+    background-color:#282a36;
 }
 
 table tr:nth-child(2n) td{
-    background-color:white;
+    background-color:#282a36;
 }
 
 .figure p{
-    color:#000;
-    font:italic 85%/1 arial,sans-serif;
+    color:#f8f8f2;
+    font:italic 85%/1 "Jetbrains Mono",sans-serif;
     padding:1em 0;
 }
 
@@ -435,12 +436,12 @@ table tr:nth-child(2n) td{
     }
 
     #toggle-sidebar h2 {
-        background-color:#2980B9;
+        background-color:#282a36;
         width:100%;
         height:50px;
         left:0;
         top:0;
-        color: white;
+        color: #50fa7b;
         font-size: 100%;
         line-height: 50px;
         position:fixed;
@@ -468,12 +469,12 @@ figcaption,figure,footer,header,hgroup,nav{
     display:block}
 
 ins{
-    background:#ff9;
+    background:#f1fa8c;
     color:#000;
     text-decoration:none}
 
 mark{
-    background:#ff0;
+    background:#f1fa8c;
     color:#000;
     font-style:italic;
     font-weight:bold}
@@ -650,7 +651,7 @@ label{
     font-size:90%}
 
 a{
-    color:#2980B9;
+    color:#6272a4;
     text-decoration:none;
     cursor:pointer}
 
@@ -660,10 +661,10 @@ a:hover,a:active{
 }
 
 a:hover{
-    color:#3091d1}
+    color:#8be9fd}
 
 a:visited{
-    color:#9B59B6}
+    color:#bd93f9}
 
 .left{
     text-align:left}
@@ -696,20 +697,20 @@ hr{
     font-weight:bold;
     text-transform:uppercase;
     font-size:80%;
-    color:#2980B9;
+    color:#282a36		;
     white-space:nowrap}
 
 #table-of-contents ul{
     margin-bottom:0}
 
 #table-of-contents li.divide-top{
-    border-top:solid 1px #404040}
+    border-top:solid 1px #44475a}
 
 #table-of-contents li.divide-bottom{
-    border-bottom:solid 1px #404040}
+    border-bottom:solid 1px #44475a}
 
 #table-of-contents li.current{
-    background:#e3e3e3}
+    background:#bd93f9}
 
 #table-of-contents li.current a{
     color:gray;
@@ -717,20 +718,20 @@ hr{
     padding:0.4045em 2.427em}
 
 #table-of-contents li.current a:hover{
-    background:#d6d6d6}
+    background:#6272a4}
 
 #table-of-contents li a{
-    /* color:#404040; */
+    color:#f8f8f2;
     padding:0.4045em 1.618em;
     position:relative;
-    /* background:#fcfcfc; */
+    background:#44475a;
     border:none;
     /* border-bottom:solid 1px #c9c9c9; */
     /* border-top:solid 1px #c9c9c9; */
     padding-left:1.618em -4px}
 
 #table-of-contents li.on a:hover,#table-of-contents li.current>a:hover{
-    background:#fcfcfc}
+    background:#6272a4}
 
 #table-of-contents li ul li a{
     /* background:#c9c9c9; */
@@ -767,7 +768,7 @@ hr{
 
 #table-of-contents a:hover{
     color: #ffffff !important;
-    background-color:#4e4a4a;
+    background-color:#6272a4;
     cursor:pointer}
 
 /* #text-table-of-contents { */
@@ -782,17 +783,17 @@ hr{
     overflow-x:hidden;
     overflow-y:scroll;
     height:100%;
-    background:#343131;
+    background:#44475a;
     z-index:200;
-    scrollbar-base-color: #1F1D1D;
-    scrollbar-arrow-color: #b3b3b3;
-    scrollbar-shadow-color: #1F1D1D;
-    scrollbar-track-color : #343131;
+    scrollbar-base-color: #282a36;
+    scrollbar-arrow-color: #44475a;
+    scrollbar-shadow-color: #282a36;
+    scrollbar-track-color : #282a36;
 }
 
 #table-of-contents h2{
     z-index:200;
-    background-color:#2980B9;
+    background-color:#44475a;
     text-align:center;
     padding:0.809em;
     display:block;
@@ -923,7 +924,7 @@ footer p{
     color:#fcfcfc;
     background:#1f1d1d;
     border-top:solid 10px #343131;
-    font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+    font-family:"Jetbrains Mono","proxima-nova","Helvetica Neue",Arial,sans-serif;
     font-size: 90%;
     z-index:400;
     padding:12px;
@@ -972,8 +973,8 @@ footer p{
     margin-bottom:24px}
 
 .verse{
-    border-left:5px solid #6AB0DE;
-    background-color: #E7F2FA;
+    border-left:5px solid #ff79c6;
+    background-color: #282a36;
     padding: 6px 20px;
     font-style:italic;
 }
@@ -1007,8 +1008,8 @@ footer p{
     display:block;
     margin:0 0 24px 24px;
     padding:24px;
-    background:#f3f6f6;
-    border:solid 1px #e1e4e5}
+    background:#282a36;
+    border:solid 1px #ff79c6}
 
 #content .sidebar p,#content .sidebar ul,#content .sidebar dl{
     font-size:90%}
@@ -1018,16 +1019,16 @@ footer p{
 
 #content .sidebar .sidebar-title{
     display:block;
-    font-family:"Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
+    font-family:"Jetbrains Mono","ff-tisa-web-pro","Georgia",Arial,sans-serif;
     font-weight:bold;
-    background:#e1e4e5;
+    background:#282a36;
     padding:6px 12px;
     margin:-24px;
     margin-bottom:24px;
     font-size:100%}
 
 #content .highlighted{
-    background:#F1C40F;
+    background:#f1fa8c;
     display:inline-block;
     font-weight:bold;
     padding:0 6px}
@@ -1052,9 +1053,9 @@ h2.footnotes{
 }
 
 .footnum, .footref{
-    color: #2980b9;
+    color: #50fa7b;
     font-size: 90%;
-    font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+    font-family:"Jetbrains Mono","proxima-nova","Helvetica Neue",Arial,sans-serif;
 }
 
 .footnum:before, .footref:before{
@@ -1068,7 +1069,7 @@ h2.footnotes{
 .footpara {
     color: #999;
     font-size: 90%;
-    font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+    font-family:"Jetbrains Mono","proxima-nova","Helvetica Neue",Arial,sans-serif;
     padding-bottom: 8px;
     padding-left: 16px;
     padding-right: 16px;
@@ -1115,7 +1116,7 @@ h2.footnotes{
 }
 
 .timestamp {
-    font-family: Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace;
+    font-family: "Jetbrains Mono","Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace;
     font-size: 90%;
     color: navy;
 }

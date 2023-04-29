@@ -1,20 +1,7 @@
 #+title: Pflanzenökologie
-#+org-download-image-dir: /Users/lkslba/Documents/emacs/org/uni/images
 
-* Einführung :drill:
-SCHEDULED: <2023-04-23 Sun>
-:PROPERTIES:
-:ID:       b99a07b1-6d15-48ae-86e7-896f5a50a168
-:DRILL_LAST_INTERVAL: 3.86
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 2
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 2.5
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [Y-04-19 Wed 11:%]
-:END:
-#
+* Einführung
+
 ** Definition Pflanze
 :PROPERTIES:
 :ID:       a2a1394d-1255-4053-adbd-5cd1fce99eda
@@ -100,9 +87,11 @@ Einige unterstützende Argumente zur Endosymbiontentheorie:
 * Wichtige Schritte der Evolution
 ** Kernphasenwechsel
 ** Generationswehchsel
+
 ** Reproduktion
 *** sexuell
-*** vegetativ
+**** vegetativ
+
 ** Evolution der Geschlechter
 *** Isogamie
 *** Anisogamie
@@ -110,6 +99,8 @@ Einige unterstützende Argumente zur Endosymbiontentheorie:
 *** Diözie
 *** Monözie
 *** Hermaphroditismus
+
+
 ** Mehrzelligkeit und Zelldifferenzierung
 ** Vielfalt der Lebenszyklen
 * Evolution und Systematik
@@ -131,5 +122,83 @@ Einige unterstützende Argumente zur Endosymbiontentheorie:
 * Evolution und Ökologie
 **
 * Moose und Farne
-** Definition Kräuter / krautige Pflanen
+** Einbettung in Naturhistorie
+*** Definition Kräuter / krautige Pflanen
 Gefässpflanzen ohnne Lignin / unverholzt.
+*** Bildung heutiger Steinkohlereserven
+Pilze sind die einzigen Organismen, die Lignin (Holz) abbauen können. Als die ersten Wälder enstanden sind, gab es solche Pilze jedoch noch nicht. Dadurch, und durch das einschliessen im Wasser, wurde das Holz nicht abgebaut. So kam es zur Fossilation.
+*** Florenreiche
+charakterisiert durch das exklusive Auftragen von bestimmten Pflanzengattungen/-familien in bestimmten Regionen.
+
+
+#+DOWNLOADED: screenshot @ 2023-04-29 14:17:00
+[[file:images/20230429-141700_screenshot.png]]
+
+** Moose
+*** Systematik
+Die Landpflanzen weisen folgende wichtige Apomorhien auf:
+- Embryo
+- Cuticula
+Die Moose sind dabei die ursprünglichsten Landplfanzen.
+
+Die Moose werden unterteilt in:
+- Lebermoose
+- Laubmoose
+- Hornmoose
+
+Laub- und Hornmoose haben dabei bereits Stomata entwickelt.
+
+
+#+DOWNLOADED: screenshot @ 2023-04-29 14:26:47
+[[file:images/20230429-142647_screenshot.png]]
+*** Charakteristika
+- Von 400-400 Mio Jahren aus den Grünalgen entstanden
+- In drei Grossgruppen eingeteilt (Leber, Laub und Hornmoose)
+- Erste Landpflanzen
+- Sporophyt und Gametophyt sind heteromorph.
+- Sporophyt wird von Gametophyt ernährt, ist nicht eigenständig (meistens)
+- Stärke als Speichersubstanz
+- Chlorophyll a und b als Photosynthesepigmente
+- Zellwände aus Zellulose
+- Haben in der Regel kein Stütz und Leitgewebe
+*** Generationswechsel
+*** Vorkommen
+** Farne und Verwandte
+*** Systematik
+wichtige Apomorphien der Gefässpflanzen:
+- Leitbündel
+- verzweigter, unabhängiger Sporophyt
+- echte Wurzeln
+
+Dabei entwickelten die Bärlappartigen *Mikropylle* und die Farnartigen *Makrophylle*
+
+*** Charakteristika
+- Anpassung an das Landleben
+  - Echte Wurzeln
+  - Echte Blätter
+  - Effiziente Wasserleitgefässe
+  - Verholzung und baumförmige Lebensform (verholzte Formen kommen heute hauptsächlich in den Tropen vor)
+
+
+*** Generationswechsel
+**** Bärlappgewächse
+***** Bärlappe
+#+caption: Generationswechsel Bärlappe
+#+DOWNLOADED: screenshot @ 2023-04-29 16:12:26
+[[file:images/20230429-161226_screenshot.png]]
+
+- Gametophyt ist nicht grün, unterirdisch und recht langlebig. Gametophyt lebt parasitär und wird von einem Pilz ernährt.
+- Strobilus besteht aus mehreren Sporangien. Vorläufer des Tannenzapfens.
+***** Moosfarne
+Moosfarne sind speziell, da sie heterospor sind. Sporen von heterosporen pflanzen sind unterschiedlich (Mega- und Mikrospore) und führen entsprechend zu unterschiedlichen Gametophyten (Mega- und Mikrogametophyt), welche die Geschlechter vorgeben (Mikro = männlich).
+
+#+DOWNLOADED: screenshot @ 2023-04-29 16:23:05
+[[file:images/20230429-162305_screenshot.png]]
+
+
+**** Farne
+*** Vorkommen und Vielfalt
+**** Bärlappgewächse
+- Älteste noch bestehende Gefässpflanze
+- Bärlappsporen sind extrem entzündlich!
+  Anwendung in der Pyrotechnik

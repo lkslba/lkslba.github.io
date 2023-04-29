@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>28032023_prozessor</title>
+<meta name="generator" content="Org Mode" />
+<link rel="icon" href="../img_doc/favicon.png" type="image/x-icon"/>
+<link rel="stylesheet" type="text/css" href="src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="src/readtheorg_theme/css/readtheorg.css"/>
+<script type="text/javascript" src="src/lib/js/jquery.min.js"></script>
+<script type="text/javascript" src="src/lib/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="src/readtheorg_theme/js/readtheorg.js"></script>
+</head>
+<body>
+<div id="preamble" class="status">
+<nav>
+  <a href="../index.html">&lt; Home</a>
+</nav>
+<div id="updated">Updated: 2023-04-29 Sat 17:25</div>
+</div>
+<div id="content" class="content">
+<header>
+<h1 class="title">28032023<sub>prozessor</sub></h1>
+</header><nav id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org091b175">Performance</a>
+<ul>
+<li><a href="#orgb7b34ea">Definitionen Performace (Metrik: Geschwindikteit)</a>
+<ul>
+<li><a href="#org76e9b1b">Antwortzeit</a></li>
+<li><a href="#org6409d33">Durchsatz</a></li>
+</ul>
+</li>
+<li><a href="#org1b94167">Performance Faktoren</a>
+<ul>
+<li><a href="#org92a9ddb">CPU Ausführungszeit</a></li>
+<li><a href="#org656adaf">CPI: Taktzyklen pro Befehl</a></li>
+</ul>
+</li>
+<li><a href="#orgc91aa83">DIE Performance Gleichung</a></li>
+</ul>
+</li>
+<li><a href="#org4850170">Prozessor bauen</a>
+<ul>
+<li><a href="#org3ecbfe2">CMOS &#x2013;&gt; LogikGatter</a></li>
+<li><a href="#orgdeee263">ALU</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+
+<div id="outline-container-org091b175" class="outline-2">
+<h2 id="org091b175">Performance</h2>
+<div class="outline-text-2" id="text-org091b175">
+<p>
+Performance im Zusammenhang mit CPUs kann durch verschiedene Metriken gemessen werden, je nach Priorität. Beispiel Geschwindigkeit, Stromverbrauch, Langlebigkeit etc.
+</p>
+</div>
+
+<div id="outline-container-orgb7b34ea" class="outline-3">
+<h3 id="orgb7b34ea">Definitionen Performace (Metrik: Geschwindikteit)</h3>
+<div class="outline-text-3" id="text-orgb7b34ea">
+</div>
+<div id="outline-container-org76e9b1b" class="outline-4">
+<h4 id="org76e9b1b">Antwortzeit</h4>
+<div class="outline-text-4" id="text-org76e9b1b">
+<p>
+Zeit zwischen Start und Ende eines Programms.
+Kann beispielsweise mit Performance = 1 / Ausführungszeit gemessen werden.
+</p>
+</div>
+</div>
+<div id="outline-container-org6409d33" class="outline-4">
+<h4 id="org6409d33">Durchsatz</h4>
+<div class="outline-text-4" id="text-org6409d33">
+<p>
+Totale Menge an Arbeit die in einer gegebenen Zeit erledigt wird.
+Beispielsweise Programme/Stunde. Kürzere Antwortzeit verbessert meistens auch den Durchsatz.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org1b94167" class="outline-3">
+<h3 id="org1b94167">Performance Faktoren</h3>
+<div class="outline-text-3" id="text-org1b94167">
+<p>
+Performance Faktoren müssen zwischen total verstrichener Zeit und Zeit für ein Programm unterscheiden (I/O Wartezeiten, arbeiten an anderen Programmen etc.)
+</p>
+</div>
+<div id="outline-container-org92a9ddb" class="outline-4">
+<h4 id="org92a9ddb">CPU Ausführungszeit</h4>
+<div class="outline-text-4" id="text-org92a9ddb">
+<p>
+Zeit, welche die CPU an einem Programm arbeitet.
+Wird berechnet:
+</p>
+
+<p>
+CPU Ausführungszeit für ein Programm = Benötigte Taktzyklen x Taktdauer
+= Benötigte Taktzyklen / Taktrate
+</p>
+
+<p>
+&#x2013;&gt; Performance kann durch kürzere Taktdauer verbessert werden.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org656adaf" class="outline-4">
+<h4 id="org656adaf">CPI: Taktzyklen pro Befehl</h4>
+<div class="outline-text-4" id="text-org656adaf">
+<p>
+Nicht alle Befehle benötigen die gleiche Ausführungszeit (normalerweise).
+</p>
+
+<p>
+Zyklen pro Befehl (Clock Cycles Per Instruction, CPI) – Durchschnittliche
+Anzahl der Taktzyklen, die pro Befehl für ein Programm erforderlich sind
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-orgc91aa83" class="outline-3">
+<h3 id="orgc91aa83">DIE Performance Gleichung</h3>
+<div class="outline-text-3" id="text-orgc91aa83">
+<p>
+CPU Zeit = Befehlszähler x CPI x Taktdauer
+         = (Befehlszähler x CPI) / Taktrate
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org4850170" class="outline-2">
+<h2 id="org4850170">Prozessor bauen</h2>
+<div class="outline-text-2" id="text-org4850170">
+</div>
+<div id="outline-container-org3ecbfe2" class="outline-3">
+<h3 id="org3ecbfe2">CMOS &#x2013;&gt; LogikGatter</h3>
+</div>
+
+<div id="outline-container-orgdeee263" class="outline-3">
+<h3 id="orgdeee263">ALU</h3>
+<div class="outline-text-3" id="text-orgdeee263">
+<p>
+**
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.2 (<a href="https://orgmode.org">Org</a> mode 9.5.5)</p>
+</div>
+</body>
+</html>

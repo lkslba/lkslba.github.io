@@ -1,3 +1,4 @@
 #+TITLE: lecture-notes
 
-- [[file:Pflanzenökologie.org][Pflanzenökologie]]
+- [[file:vorlesung_pflanzenökologie.org][Pflanzenökologie]]
+- [[file:vorlesung_rechenarchitektur.org][28032023_prozessor]]

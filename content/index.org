@@ -9,3 +9,6 @@
 * blog
 #+INCLUDE: blog/blog.org :lines "3-5"
 - [[file:blog/blog.org][alle Posts]]
+
+* notes
+- [[file:lecture-notes/lecture-notes.org][lecture notes]]
