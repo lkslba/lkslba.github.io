@@ -18,7 +18,7 @@
 <nav>
   <a href="../index.html">&lt; Home</a>
 </nav>
-<div id="updated">Updated: 2023-04-29 Sat 17:25</div>
+<div id="updated">Updated: 2023-04-30 Sun 10:52</div>
 </div>
 <div id="content" class="content">
 <header>
@@ -27,57 +27,57 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org091b175">Performance</a>
+<li><a href="#org583525e">Performance</a>
 <ul>
-<li><a href="#orgb7b34ea">Definitionen Performace (Metrik: Geschwindikteit)</a>
+<li><a href="#orgf932ff3">Definitionen Performace (Metrik: Geschwindikteit)</a>
 <ul>
-<li><a href="#org76e9b1b">Antwortzeit</a></li>
-<li><a href="#org6409d33">Durchsatz</a></li>
+<li><a href="#orgfe1be99">Antwortzeit</a></li>
+<li><a href="#orgc124593">Durchsatz</a></li>
 </ul>
 </li>
-<li><a href="#org1b94167">Performance Faktoren</a>
+<li><a href="#org91187d6">Performance Faktoren</a>
 <ul>
-<li><a href="#org92a9ddb">CPU Ausführungszeit</a></li>
-<li><a href="#org656adaf">CPI: Taktzyklen pro Befehl</a></li>
+<li><a href="#orgccfe811">CPU Ausführungszeit</a></li>
+<li><a href="#orgf2d5d0d">CPI: Taktzyklen pro Befehl</a></li>
 </ul>
 </li>
-<li><a href="#orgc91aa83">DIE Performance Gleichung</a></li>
+<li><a href="#org55cb937">DIE Performance Gleichung</a></li>
 </ul>
 </li>
-<li><a href="#org4850170">Prozessor bauen</a>
+<li><a href="#orgf213d30">Prozessor bauen</a>
 <ul>
-<li><a href="#org3ecbfe2">CMOS &#x2013;&gt; LogikGatter</a></li>
-<li><a href="#orgdeee263">ALU</a></li>
+<li><a href="#org42f6dde">CMOS &#x2013;&gt; LogikGatter</a></li>
+<li><a href="#org4f47c81">ALU</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </nav>
 
-<div id="outline-container-org091b175" class="outline-2">
-<h2 id="org091b175">Performance</h2>
-<div class="outline-text-2" id="text-org091b175">
+<div id="outline-container-org583525e" class="outline-2">
+<h2 id="org583525e">Performance</h2>
+<div class="outline-text-2" id="text-org583525e">
 <p>
 Performance im Zusammenhang mit CPUs kann durch verschiedene Metriken gemessen werden, je nach Priorität. Beispiel Geschwindigkeit, Stromverbrauch, Langlebigkeit etc.
 </p>
 </div>
 
-<div id="outline-container-orgb7b34ea" class="outline-3">
-<h3 id="orgb7b34ea">Definitionen Performace (Metrik: Geschwindikteit)</h3>
-<div class="outline-text-3" id="text-orgb7b34ea">
+<div id="outline-container-orgf932ff3" class="outline-3">
+<h3 id="orgf932ff3">Definitionen Performace (Metrik: Geschwindikteit)</h3>
+<div class="outline-text-3" id="text-orgf932ff3">
 </div>
-<div id="outline-container-org76e9b1b" class="outline-4">
-<h4 id="org76e9b1b">Antwortzeit</h4>
-<div class="outline-text-4" id="text-org76e9b1b">
+<div id="outline-container-orgfe1be99" class="outline-4">
+<h4 id="orgfe1be99">Antwortzeit</h4>
+<div class="outline-text-4" id="text-orgfe1be99">
 <p>
 Zeit zwischen Start und Ende eines Programms.
 Kann beispielsweise mit Performance = 1 / Ausführungszeit gemessen werden.
 </p>
 </div>
 </div>
-<div id="outline-container-org6409d33" class="outline-4">
-<h4 id="org6409d33">Durchsatz</h4>
-<div class="outline-text-4" id="text-org6409d33">
+<div id="outline-container-orgc124593" class="outline-4">
+<h4 id="orgc124593">Durchsatz</h4>
+<div class="outline-text-4" id="text-orgc124593">
 <p>
 Totale Menge an Arbeit die in einer gegebenen Zeit erledigt wird.
 Beispielsweise Programme/Stunde. Kürzere Antwortzeit verbessert meistens auch den Durchsatz.
@@ -86,16 +86,16 @@ Beispielsweise Programme/Stunde. Kürzere Antwortzeit verbessert meistens auch d
 </div>
 </div>
 
-<div id="outline-container-org1b94167" class="outline-3">
-<h3 id="org1b94167">Performance Faktoren</h3>
-<div class="outline-text-3" id="text-org1b94167">
+<div id="outline-container-org91187d6" class="outline-3">
+<h3 id="org91187d6">Performance Faktoren</h3>
+<div class="outline-text-3" id="text-org91187d6">
 <p>
 Performance Faktoren müssen zwischen total verstrichener Zeit und Zeit für ein Programm unterscheiden (I/O Wartezeiten, arbeiten an anderen Programmen etc.)
 </p>
 </div>
-<div id="outline-container-org92a9ddb" class="outline-4">
-<h4 id="org92a9ddb">CPU Ausführungszeit</h4>
-<div class="outline-text-4" id="text-org92a9ddb">
+<div id="outline-container-orgccfe811" class="outline-4">
+<h4 id="orgccfe811">CPU Ausführungszeit</h4>
+<div class="outline-text-4" id="text-orgccfe811">
 <p>
 Zeit, welche die CPU an einem Programm arbeitet.
 Wird berechnet:
@@ -112,9 +112,9 @@ CPU Ausführungszeit für ein Programm = Benötigte Taktzyklen x Taktdauer
 </div>
 </div>
 
-<div id="outline-container-org656adaf" class="outline-4">
-<h4 id="org656adaf">CPI: Taktzyklen pro Befehl</h4>
-<div class="outline-text-4" id="text-org656adaf">
+<div id="outline-container-orgf2d5d0d" class="outline-4">
+<h4 id="orgf2d5d0d">CPI: Taktzyklen pro Befehl</h4>
+<div class="outline-text-4" id="text-orgf2d5d0d">
 <p>
 Nicht alle Befehle benötigen die gleiche Ausführungszeit (normalerweise).
 </p>
@@ -128,9 +128,9 @@ Anzahl der Taktzyklen, die pro Befehl für ein Programm erforderlich sind
 </div>
 
 
-<div id="outline-container-orgc91aa83" class="outline-3">
-<h3 id="orgc91aa83">DIE Performance Gleichung</h3>
-<div class="outline-text-3" id="text-orgc91aa83">
+<div id="outline-container-org55cb937" class="outline-3">
+<h3 id="org55cb937">DIE Performance Gleichung</h3>
+<div class="outline-text-3" id="text-org55cb937">
 <p>
 CPU Zeit = Befehlszähler x CPI x Taktdauer
          = (Befehlszähler x CPI) / Taktrate
@@ -140,17 +140,17 @@ CPU Zeit = Befehlszähler x CPI x Taktdauer
 </div>
 
 
-<div id="outline-container-org4850170" class="outline-2">
-<h2 id="org4850170">Prozessor bauen</h2>
-<div class="outline-text-2" id="text-org4850170">
+<div id="outline-container-orgf213d30" class="outline-2">
+<h2 id="orgf213d30">Prozessor bauen</h2>
+<div class="outline-text-2" id="text-orgf213d30">
 </div>
-<div id="outline-container-org3ecbfe2" class="outline-3">
-<h3 id="org3ecbfe2">CMOS &#x2013;&gt; LogikGatter</h3>
+<div id="outline-container-org42f6dde" class="outline-3">
+<h3 id="org42f6dde">CMOS &#x2013;&gt; LogikGatter</h3>
 </div>
 
-<div id="outline-container-orgdeee263" class="outline-3">
-<h3 id="orgdeee263">ALU</h3>
-<div class="outline-text-3" id="text-orgdeee263">
+<div id="outline-container-org4f47c81" class="outline-3">
+<h3 id="org4f47c81">ALU</h3>
+<div class="outline-text-3" id="text-org4f47c81">
 <p>
 **
 </p>
