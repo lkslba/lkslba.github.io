@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       83cec38c-18d5-4b1e-9426-10494e054f1b
+:END:
+#+title: Programmieren 2
+#+filetags: :uni:Informatik:vorlesung:
+* Funktionales Programmieren
+<2023-05-05 Fri>
+
+
+
+
+
+* links
+
+* sources

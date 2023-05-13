@@ -110,7 +110,8 @@
              :auto-sitemap t
              :sitemap-title "lecture-notes"
              :sitemap-filename "lecture-notes.org"
-             :sitemap-sort-files 'anti-chronologically)
+             :sitemap-sort-files 'anti-chronologically
+             :with-broken-links t)
        (list "static"
              :recursive t
              :base-directory "./content"

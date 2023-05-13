@@ -1,32 +1,16 @@
+:PROPERTIES:
+:ID:       42b9e5e9-e7e3-4330-8dbc-feb94493c2fe
+:END:
 #+title: Pflanzenökologie
+#+filetags: :biologie:uni:pflanzen:ökologie:vorlesung:
+
+[[id:36d39cc5-70e5-43f4-be44-1c4a76450f53][Biology]]
 
 * Einführung
 
 ** Definition Pflanze
-:PROPERTIES:
-:ID:       a2a1394d-1255-4053-adbd-5cd1fce99eda
-:DRILL_LAST_INTERVAL: 3.86
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [Y-04-19 Wed 11:%]
-:END:
 Pflanzen sind Organsismen, die neben echten Zellkernen auch Plastiden (meist Chloroplasten) als Organellen enthalten. Pflanzen sind (allermeistens) photoautotroph.
 ** Definition Pilze
-:PROPERTIES:
-:ID:       15c69f61-8ec2-4f2f-aeff-0061ab25de54
-:DRILL_LAST_INTERVAL: 3.86
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [Y-04-19 Wed 11:%]
-:END:
 Pilze sind heterotroph wie Tiere und ernähren sich von totem organischem Gewebe, parasitär oder mutualistisch. Pilze sind jedoch sessil und weisen Zellwände (aus Chitin oft) und Vakuolen auf, haben jedoch eben keine Plastiden.
 ** Definition Ökologie
 Wissenschaftliche Untersuchung der Beziehungen zwischen Lebewesen und ihrer Umwelt.
@@ -58,9 +42,22 @@ Carl Woese definierte drei Domänen und sechs Reiche der Lebewesen. Eine einprä
 
 *** Leben nach Woese:
 **** Prokaryoten
+Prokaryoten zeichnen sich vor allen Dingen durch folgende Merkmale aus:
+- fehlen eines Zellkerns
+- vorhandensein von Plasmiden (zusätlzich zum 'Kern'-Genom)
+- Prokaryoten sind kleiner als Eukaryoten
+- verfügen über *keine* Zellorganellen
+- Fortpflanzung über Zellteilung, Genome mischen sich häufig über horizontalen Gentransfer
+
 ***** Bacteria
 ***** Archaea
 **** Eukaryoten
+Eukaryoten zeichnen sich vor allen Dingen durch folgende Merkmale aus:
+- Zellkern und grössere Komplexität als bei PK.
+- grösser als PK
+- vorwiegend sexuelle Fortpflanzung
+- Zellorganellen vorhanden
+
 ***** Protisten
 ***** Plantae
 ***** Fungi
@@ -82,15 +79,38 @@ Einige unterstützende Argumente zur Endosymbiontentheorie:
 - Ribosomen in Mitochondrien und Chloroplasten sind ähnlicher zu jenen in Bakterien als jene in Eukaryoten.
 - Chloroplasten finden sich in verschiedenen Protisten, die nah verwandt sind mit Plastiden-freien Arten ->  Wenn Plastiden mehrmals unabhängig entstanden sind, ist ihre grosse Ähnlichkeit schwierig zu erklären.
 
-
-
 * Wichtige Schritte der Evolution
 ** Kernphasenwechsel
+Kernphasenwechsel bezeichnet den Wechsel der Anzahl Chromosomensätze im Lebensalaufe eines Organismus. Dieser Wechsel erfolgt bei allen sich sexuell fortpflanzenden Organismen.
+
+... Diploider Organsimus --> *Meiose* --> haploide Gameten --> *Syngamie* --> dipoide Zygote ...
+
+*** Haplontischer Kernphasenwechsel
+Organismus verbringt die allermeiste Zeit haploid, das heisst Meiose erfolgt direkt nach der Syngamie (eher selten). Bsp: Spirogyra spec.
+*** Diplontischer Kernphasenwechsel
+Organismus verbringt meiste Zeit diploid, auf Meiose erfolgt direkt die Syngamie. Bsp: Mensch.
+*** Heterophasicher Kernphasenwechsel
+Organismus macht zwischen Meiose und Syngamie jeweils noch Mitose, dass heisst der Organismus verbringt eine gewisse, signifikante Zeit in beiden Zuständen, haploid und diploid. Bsp. die meisten Pflanzen.
+
 ** Generationswehchsel
+Der Generationswechsel beschreibt die physio- und morphologischen Zustände eines Organismus mit heterophasischem Kernphasenwechsel. Insbesondere werden der diploide Sporophyt und der haploide Gametophyt sowie deren Transformationen beschrieben.
+
+Im Allgemeinen sieht der Ablauf eines Generationenwechsel folgendermassen aus:
+
+...diploide Zygote (junger Sporophyt) --> Sporophyt --> Spor (produziert vom Sporophyten) --> haploider Gametophyt --> Gameten --> diploide Zygote ...
+
+
+*** Isomorpher Generationenwechsel
+Sporo- und Gametophyt sehen gleich aus. Bsp: einige Algen
+*** Heteromorpher Generationenwechsel
+Gametophytische Phase überwiegt. Bsp: Moose
+Sporophytische Phase überwiegt. Bsp: Farne, Samenpflanzen
+
+
 
 ** Reproduktion
 *** sexuell
-**** vegetativ
+*** vegetativ
 
 ** Evolution der Geschlechter
 *** Isogamie
@@ -202,3 +222,124 @@ Moosfarne sind speziell, da sie heterospor sind. Sporen von heterosporen pflanze
 - Älteste noch bestehende Gefässpflanze
 - Bärlappsporen sind extrem entzündlich!
   Anwendung in der Pyrotechnik
+
+* Life History
+<2023-05-02 Tue>
+
+** Klassifikation von Plfanzen
+*** Lebensdauer
+*** Häufigkeit der Reproduktion
+*** verholzte vs. krautige
+*** Raunkiaers Lebensformen
+**** Phanerophyten
+Dominant in tropischen Regionen (viele Bäume).
+**** Chamaephyten
+**** Kryptophyten
+Dominant in temperatien und alpinen Regionen.
+***** Geophyten
+***** Hydrophyten
+**** Therophyten
+Dominant in Wüstengebieten
+*** r- und k-Selektion
+*** Grime's CSR-Dreieck
+** Life-History Evolution
+*** Life-history Merkmale
+- Wachstumsrate
+- Reproduktionsrate
+- Phänologie
+- Mortalitä und Lebenserwartung
+- Anzahl und Grösse der Samen
+- Resourcenallokation
+
+Life-history Merkmale sind teilweise negativ miteinander korreliert --> es gibt trade-offs!
+
+Beispiel: Wachstum vs. Reproduktion, Anzahl vs. Grösse der Samen
+
+*** Intra-specific-trade-offs
+*** Seneszenz bei Pflanzen
+** Umweltstochastizität
+*** Bet-hedging
+
+
+** Reproduktion
+
+*** vegetativen Reproduktion
+*** sexualle Reproduktion
+
+* Intrasepzifische Konkurrenz
+<2023-05-05 Fri>
+** Umweltbedingungen und Nischen
+Arten können unter bestimmten Umweltbedingungen überleben und / oder reproduzieren. Diese Range wird Nische genannt.
+
+Nischen können entsprechend eng oder breit sein, was wiederum Eigenschaften über die spezies enthüllt (Spezialist? Generalist?).
+
+
+#+DOWNLOADED: screenshot @ 2023-05-05 07:44:02
+[[file:images/20230505-074402_screenshot.png]]
+
+Durch bekannte (Landolt-)Zeigerwerte kann auf lokale Umweltfaktoren geschlossen werden:
+
+Man macht eine Vegetationsaufnahme im lokalen Bereich und schätzt den Deckungsgrad der einzelnen Spezies. Dann nimmt man die jeweiligen Zeigerwerte für die interessanten Umweltfaktoren (Temperatur, Nährstoffe etc.) und mittelt diese gewichtet nach Artendeckung und erhält eine gute Schätzung über den Umweltfaktor, ohne direkte Proben zu nehmen.
+
+Umgekehrt kann auch die Nischenbreite einer Spezies geschätzt werden. Man nimmt den mittleren Zeigerwert von einer grossen Zahl (bsp 500) Lenbensgemeinschaften, wo die interessante Spezies vorkomment. Dann plottet man diese 500 Mittelwerte und erhält eine Approximation der Nische dieser Spezies.
+
+** Häufigkeit und Seltenheit
+
+- Geografische Verbreitung (Kosmopolit vs Endemit)
+- Nischenbreite (Spezialist vs Generalist)
+- Stetigkeit (kommt die )
+
+** fundamentale vs realisierte Nische
+*** fundamentale Nische
+idealistierter Raum mit allen abiotischen Faktoren ohne andere Organsismen.
+*** realisierte Nische
+Der Raum, wo die Arten tatsächlich vorkommen.
+
+** Konkurrenz und Ressourcen
+*** Symmetrische & asymetrische Konkurrenz
+** Selbstausdünnung
+Asymmetrische Konkurrenz + Dichteabhängige Mortalität = Selbstausdünnung
+** Gesetz des konstanten Ertrags
+
+
+* Gynmnospermen
+** Generationenwechsel
+** Systematik
+** Samen
+
+
+** Holz
+** Wald
+* Interspezifische Konkurrenz
+** Koexistenz und Konkurrenz
+Wie kann es sein, dass so viele Pflanzenarten auf so kleinem Raum koexistieren, obwohl alle mehr oder weniger die selben Ressourcen benötigen?
+*** Gauses Prinzip vom Konkurrenzausschluss
+Zwei Arten können nur in einer stabilen Umwelt koexistieren, wenn sie sich in ihren Nischen unterscheiden.
+
+Dafür müssen aber gewisse Voraussetzungen erfüllt werden:
+1. Keine Nischenunterschiede
+2. Das Wachstum wird von einer Ressource limitiert
+3. Es war ausreichend
+*** Nischendifferenzierung und Merkmalsverschiebung
+** Lotka-Volterra Modell
+* Ausser Konkurrenz
+
+** Allelopathie
+*** Definition
+*** Methoden zum Nachweis
+** Facilitation
+*** Definition
+*** Machanismen
+**** Nurse Plants
+**** Verteidigung
+**** Hydraulic Lift
+**** Stickstofffixierer
+Fabaceae !
+
+*** Sukzession
+**** Primärsukzession
+**** Sekundärsukzession
+** Parasitische Pflanzen
+*** Vollparasiten
+*** Halbparasiten
+*** Haustorium

@@ -158,10 +158,12 @@ dl dd{
     margin:0 0 12px 24px;
 }
 
-@media print{
-    .codeblock,pre.src{
-        white-space:pre.src-wrap}
-}
+@media print {
+    .codeblock.pre,
+    pre.src {
+      white-space: pre-wrap;
+    }
+  }
 
 @media print{
     html,body,section{
@@ -1140,3 +1142,8 @@ h2.footnotes{
     text-align: right;
     padding-right: 10pt;
 }
+
+#preamble {
+    float: right;
+}
+
