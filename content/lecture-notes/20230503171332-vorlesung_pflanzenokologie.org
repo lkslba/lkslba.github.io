@@ -106,10 +106,13 @@ Sporo- und Gametophyt sehen gleich aus. Bsp: einige Algen
 Gametophytische Phase überwiegt. Bsp: Moose
 Sporophytische Phase überwiegt. Bsp: Farne, Samenpflanzen
 
-
+*** Gameten
+*** Sporen ‘¿ h
 
 ** Reproduktion
 *** sexuell
+
+
 *** vegetativ
 
 ** Evolution der Geschlechter
@@ -119,7 +122,6 @@ Sporophytische Phase überwiegt. Bsp: Farne, Samenpflanzen
 *** Diözie
 *** Monözie
 *** Hermaphroditismus
-
 
 ** Mehrzelligkeit und Zelldifferenzierung
 ** Vielfalt der Lebenszyklen
@@ -141,6 +143,96 @@ Sporophytische Phase überwiegt. Bsp: Farne, Samenpflanzen
 ***** Homoplasie
 * Evolution und Ökologie
 **
+* Abiotische Umwelt
+** Definition Nettoprimärproduktion
+:PROPERTIES:
+:ID:       0b167fa6-2284-495d-928b-ac5aaa28b709
+:END:
+Produzierte Biomasse gemessen in Gramm Biomasse / m^2 und Jahr.
+
+Nice to know: NPP ist terrestrisch höher im Äquatorbereich, aber aquatisch ist die NPP höher in den nördlichen und südlichen Breitengraden. Das kommt daher, dass kühleres Wasser mehr CO2/Nährstoffe binden kann als warmes.
+
+Produktivität wird durch folgendes bestimmt:
+Terrestrische Systeme:
+1. Wasserverfügbarkeit
+2. Temperatur und Saisonalität
+3. Stickstoff und andere Nährstoffe (lokal/regional wichtig)
+
+Aquatische Systeme:
+1. Stickstoff und andere Nährstoffe (Flussmündungen, Pole)
+2. Temperatur ist wichtig für die CO_2_-Konzentration im Wasser
+** Klima
+*** Definition
+Das Klima beschreibt die Gesamtheit aller meteorologischen Vorgänge, die für den *durchschnittlichen* Zustand der Erdatmosphäreds *in einer gewissen Region* verantwortlich sind.
+
+*** Klassifikationen
+Verschiedene Klimata können zu Typen klassifiziert werden. Dabei wird zum Beispiel beim Köppen-Geiger-Modell mit Buchstabenkombinationen gearbeitet:
+A-E für die Hauptgruppen (tropisch - arktisch)
+w, s, f, m = wintertrocken, sommertrocken, vollfeucht, Monsun
+a - k für die Temperaturen (Sommerwärme, Winterkälte etc.)
+
+Die Schweiz ist dann zum Beispiel in einem 'Cfa' Klima.
+
+** Boden
+*** Bodenschichtung
+Böden werden durch ihre verschiedenen Schichten charakterisiert. Die Schichten werden *Horizonte* genannt.
+
+- O-Horizont 2"
+  Organische Auflgae, oberste Schicht, besteht aus Streu und Torf[fn:1].
+- A-Horizont 10"
+  mineralischer Oberboden, Anreicherung von Humu[fn:2]s, grösste biologische Aktivität, stark durchwurzelt.
+- B-Horizont 30"
+  mineralischer Unterboden, Mineralumwandlung, weniger stark durchwurzelt
+- C-Horizont 48"
+  mineralischer Untergrund, Ausgangsgestein
+
+*** ein paar typische Bodenprofile
+**** Schwarzerde
+super fruchtbar, viel Humus
+**** Braunerde
+Häufig in humiden Klima, fruchtbar und in der Landwirtschaft genutzt
+**** Moorboden
+Wassergesättigt, hoher Humus/Torf-Anteil
+*** Nährstoffe
+Die Auswaschung von Nährstoffen aus dem Boden findet am ausgeprägtesten in tropischen Gebieten statt (hoher Niederschlag, hohe Temperaturen). Entsprechend beobachten wir einen Gradienten des Nährstoffgehalts vom Äquator zu den Polen (wobei die Pole natürlich wieder tief sind)
+
+Die natürliche Bodenfruchtbarkeit wird heutzutage überlagert durch anthropogene Düngung und der Stickstoffdeposition aus der Atmosphäre.
+
+** Photosynthese
+
+*6 CO_2_ + 12 H_2_O --> 1 C_6_H_12_O_6_ + 6 O_2_ + 6 H_2_O*
+
+*** Lichtreaktion
+Energiegewinnung durch Chlorophyll
+*** Dunkelreaktion
+Kohlenstoffassimilation durch Aufnahme von CO_2_
+
+RuBisCo - Enzym der Kohlenstoffaufnahme, Überführung von CO_2_ in den Calvin Zyklus, Häufigstes Enzym der Erde,50% des gelösten Blattstickstoffs und 30% des gelösten Gesamtstickstoffs liegt in RuBisCo vor!
+
+Seitennotiz zu Stickstoff:
+Die Photosynthesekapazität wird weitgehend vom Blattstickstoff bestimmt. Der Blattstickstoffgehalt nimmt typischerweise gegen Aussen (der Krone und des einzelnen Blattes) zu.
+
+*** Regulation
+durch Öffnen und Schliessen der Stomata.
+
+Dilemma der Pflanzen:;
+- Offene Stomata führen zu Transpiration (aber dafür CO_2_-Aufnahme)
+- Geschlossene Stomata können kein CO_2_ aufnehmen --> Keine Photosynthese
+
+unbewässerte Pflanzen öffnen ihre Stomata deswägen nur kurz morgens (typischerweise). Bewässerte Pflanzen tendieren dazu 'verschwenderischer' mit Ihrem Wasser umzugehen.
+
+Cuticula und Trichome schützen vor Wasserverlust und sind ausgeprägter in ariden Spezies vorzufinden.
+
+
+*** Licht
+Die meisten Pflanzen (vor allem Schattenplfanzen) brauchen nur einen Bruchteil der Lichtintensität eines Sonnentages um ihre maximale Photosynthese-Rate zu erreichen (max Lichtsättigung).
+
+Ein typischer Lichtgradient in einem Wald lässt nur ca. 2-10% des Lichts zum Boden.
+** Kohlenstoff
+Wir erleben die höchste CO_2_-Konzentration seit 600 000 Jahren. Pflanzen wachsen besser bei höherer CO_2_-Konzentration.
+
+Pflanzen produzieren keinen Sauerstoff und nehmen kein CO_2_ auf über den gesamten Lebenszyklus gesehen!
+
 * Moose und Farne
 ** Einbettung in Naturhistorie
 *** Definition Kräuter / krautige Pflanen
@@ -198,7 +290,6 @@ Dabei entwickelten die Bärlappartigen *Mikropylle* und die Farnartigen *Makroph
   - Echte Blätter
   - Effiziente Wasserleitgefässe
   - Verholzung und baumförmige Lebensform (verholzte Formen kommen heute hauptsächlich in den Tropen vor)
-
 
 *** Generationswechsel
 **** Bärlappgewächse
@@ -343,3 +434,10 @@ Fabaceae !
 *** Vollparasiten
 *** Halbparasiten
 *** Haustorium
+
+* Herbivorie
+
+* Footnotes
+[fn:2] Humus ist die Gesamtheit der sich im Boden befindenden abgestorbenden organischen Substanz.
+
+[fn:1] Torf ist eine Form von Humus, besteht aus konservierten Pflanzenresten und entspeht vor allem in Mooren durch Sauerstoffarmut.
