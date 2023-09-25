@@ -1,0 +1,9 @@
+#+title: e-Voting
+
+At the moment it seems to me like e-Voting is on the verge of implementation. I was reminded of this at work, the Swiss Post is a major proponent and developer of e-Voting. I want to share a seldom heard argument against it.
+
+I do not doubt the advantages e-Voting brings to citizens of a democracy. Especially for citizens living in foreign countries e-Voting is a major advantage since you do not have to deal with international mail or international travel just for voting. But also for domestic citizins an electronic voting system would bring some more convenience, less so for the voters but surely for the vote-counters.
+
+A democracy is based on trust. This is probably true on many levels, but I mean it in a rather practical way. If we all vote on some matter, I as a citizen have to trust that the ballots are counted fairly and fraud is very unlikely. The reassuring thing about old-school voting is that everyone can hypothetically check the truthfulness of the outcome by counting some crosses on some papers - anybody could do that. On the other hand, just by its electronic nature not everyone in a democracy will be able to understand how an electronic system works. And this unnecessary complexity may be the spark which lights the match on fire in the next really close vote. It is importent to say that I do not doubt the trustworthyness of the future electronic voting system. This system will be well engineered by competent people. But this is not the point. The system has to work really good AND has to be so simple a 4th grader could understand it. There cannot be any doubts about our voting outcomes.
+
+Only time will tell. But I would rather stick for the moment with our proven old-school easy to understand system than with a new and more complex one.
